@@ -1,6 +1,6 @@
-﻿# Device Lab
+# Device Lab
 
-[Live demo](https://rtyrrx.github.io/device-lab-computer-vision-a2/)
+[Live demo](https://rtyrrx.github.io/device-lab/)
 
 Device Lab classifies images of **monitors, telephones, laptops, and keyboards**. It compares a MobileNetV2 baseline with a ConvNeXt-Tiny classifier and displays a Class Activation Map for the ConvNeXt prediction.
 
@@ -8,7 +8,7 @@ The browser demo runs entirely on the device using TensorFlow.js and WebAssembly
 
 ## Use the demo
 
-1. Open the [website](https://rtyrrx.github.io/device-lab-computer-vision-a2/) in a current browser.
+1. Open the [website](https://rtyrrx.github.io/device-lab/) in a current browser.
 2. Select an image or use **Take photo** on a supported phone.
 3. Select an optional image condition and press **Analyze image**.
 
@@ -21,8 +21,8 @@ Only the four listed categories are supported. Unrelated objects can receive con
 The static app and its exported model files are included in `phone-site/`. No Python ML dependencies are required to serve it.
 
 ```sh
-git clone https://github.com/Rtyrrx/device-lab-computer-vision-a2.git
-cd device-lab-computer-vision-a2
+git clone https://github.com/Rtyrrx/device-lab.git
+cd device-lab
 python -m http.server 8080 --directory phone-site
 ```
 
