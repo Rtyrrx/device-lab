@@ -1,0 +1,15 @@
+{
+  "training": [
+    "dataset/train/monitor/01602417.jpg"
+  ],
+  "validation": [
+    "dataset/validate/telephone/025005029 - Copy - Copy.jpg"
+  ],
+  "reason": "Two visually reviewed cross-split similarity candidates are excluded from classifier fitting and validation. The original split manifest is retained for provenance; the test set is unchanged.",
+  "effective_counts": {
+    "training": 279,
+    "extra_augmented": 558,
+    "validation": 59,
+    "test": 60
+  }
+}

@@ -1,0 +1,859 @@
+{
+  "images": 60,
+  "backend": "wasm",
+  "precision": "float16 stored weights, float32 runtime",
+  "models": {
+    "mobilenet": {
+      "labelAgreement": 60,
+      "maxConfidenceError": 0.0033282041549682617,
+      "results": [
+        {
+          "file": "dataset/test/monitor/01601559.jpg",
+          "predicted": "monitor",
+          "confidence": 0.8664637207984924,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00031280517578125
+        },
+        {
+          "file": "dataset/test/monitor/01602060.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9776716828346252,
+          "python_predicted": "monitor",
+          "confidence_error": 0.0005339980125427246
+        },
+        {
+          "file": "dataset/test/monitor/01602063.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9986339211463928,
+          "python_predicted": "monitor",
+          "confidence_error": 0.000030994415283203125
+        },
+        {
+          "file": "dataset/test/monitor/01602084.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9992305040359497,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00003224611282348633
+        },
+        {
+          "file": "dataset/test/monitor/01602655.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9988921284675598,
+          "python_predicted": "monitor",
+          "confidence_error": 0.0000035762786865234375
+        },
+        {
+          "file": "dataset/test/monitor/01602689.jpg",
+          "predicted": "monitor",
+          "confidence": 0.958696722984314,
+          "python_predicted": "monitor",
+          "confidence_error": 0.0011310577392578125
+        },
+        {
+          "file": "dataset/test/monitor/01603019.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9813636541366577,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00008469820022583008
+        },
+        {
+          "file": "dataset/test/monitor/01603557.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9994470477104187,
+          "python_predicted": "monitor",
+          "confidence_error": 0.000005125999450683594
+        },
+        {
+          "file": "dataset/test/monitor/01603605.jpg",
+          "predicted": "monitor",
+          "confidence": 0.991716206073761,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00039082765579223633
+        },
+        {
+          "file": "dataset/test/monitor/01603634.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9961185455322266,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00016677379608154297
+        },
+        {
+          "file": "dataset/test/monitor/01603668.jpg",
+          "predicted": "monitor",
+          "confidence": 0.985539436340332,
+          "python_predicted": "monitor",
+          "confidence_error": 0.0002713203430175781
+        },
+        {
+          "file": "dataset/test/monitor/01603673.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9606270790100098,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00020378828048706055
+        },
+        {
+          "file": "dataset/test/monitor/01604156.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9926925897598267,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00011032819747924805
+        },
+        {
+          "file": "dataset/test/monitor/01604170.jpg",
+          "predicted": "monitor",
+          "confidence": 0.996425211429596,
+          "python_predicted": "monitor",
+          "confidence_error": 0.000011324882507324219
+        },
+        {
+          "file": "dataset/test/monitor/01604317.jpg",
+          "predicted": "monitor",
+          "confidence": 0.6851107478141785,
+          "python_predicted": "monitor",
+          "confidence_error": 0.002763211727142334
+        },
+        {
+          "file": "dataset/test/telephone/02500082 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9975868463516235,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000020503997802734375
+        },
+        {
+          "file": "dataset/test/telephone/02500277 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9977995753288269,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000039458274841308594
+        },
+        {
+          "file": "dataset/test/telephone/02500287 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9895539283752441,
+          "python_predicted": "telephone",
+          "confidence_error": 0.00029522180557250977
+        },
+        {
+          "file": "dataset/test/telephone/025005066 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.8119078874588013,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0033282041549682617
+        },
+        {
+          "file": "dataset/test/telephone/025005336 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9998140931129456,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0000013113021850585938
+        },
+        {
+          "file": "dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9939143061637878,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000034749507904052734
+        },
+        {
+          "file": "dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9997339844703674,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0000029802322387695312
+        },
+        {
+          "file": "dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.984271228313446,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0007585287094116211
+        },
+        {
+          "file": "dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9864147305488586,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0007765293121337891
+        },
+        {
+          "file": "dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9969592094421387,
+          "python_predicted": "telephone",
+          "confidence_error": 0.00010579824447631836
+        },
+        {
+          "file": "dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9965360164642334,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000017881393432617188
+        },
+        {
+          "file": "dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.979397714138031,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0006704330444335938
+        },
+        {
+          "file": "dataset/test/telephone/02504745 - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9935110211372375,
+          "python_predicted": "telephone",
+          "confidence_error": 0.00017011165618896484
+        },
+        {
+          "file": "dataset/test/telephone/02504782 - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9617951512336731,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0005564689636230469
+        },
+        {
+          "file": "dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.8775100111961365,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000029742717742919922
+        },
+        {
+          "file": "dataset/test/laptop/01500058.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9958406090736389,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00003135204315185547
+        },
+        {
+          "file": "dataset/test/laptop/01500207.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9873703718185425,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00028824806213378906
+        },
+        {
+          "file": "dataset/test/laptop/01501368.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9789659976959229,
+          "python_predicted": "laptop",
+          "confidence_error": 0.0008465051651000977
+        },
+        {
+          "file": "dataset/test/laptop/01501526.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9860828518867493,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00016838312149047852
+        },
+        {
+          "file": "dataset/test/laptop/01501779.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9822717905044556,
+          "python_predicted": "laptop",
+          "confidence_error": 0.0007259249687194824
+        },
+        {
+          "file": "dataset/test/laptop/01501840.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9440897107124329,
+          "python_predicted": "laptop",
+          "confidence_error": 0.0009253025054931641
+        },
+        {
+          "file": "dataset/test/laptop/01502030.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9386147856712341,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00102156400680542
+        },
+        {
+          "file": "dataset/test/laptop/01502195 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9992169141769409,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00001722574234008789
+        },
+        {
+          "file": "dataset/test/laptop/01503039 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9994268417358398,
+          "python_predicted": "laptop",
+          "confidence_error": 0.000009417533874511719
+        },
+        {
+          "file": "dataset/test/laptop/01503168 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9882649183273315,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00020837783813476562
+        },
+        {
+          "file": "dataset/test/laptop/01503246.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9991011619567871,
+          "python_predicted": "laptop",
+          "confidence_error": 0.000004470348358154297
+        },
+        {
+          "file": "dataset/test/laptop/01503433.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9967517852783203,
+          "python_predicted": "laptop",
+          "confidence_error": 0.0000011324882507324219
+        },
+        {
+          "file": "dataset/test/laptop/01503447.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9982942938804626,
+          "python_predicted": "laptop",
+          "confidence_error": 0.000006079673767089844
+        },
+        {
+          "file": "dataset/test/laptop/01503585 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.998225748538971,
+          "python_predicted": "laptop",
+          "confidence_error": 0.0000011920928955078125
+        },
+        {
+          "file": "dataset/test/laptop/01503675 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9982200264930725,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00005310773849487305
+        },
+        {
+          "file": "dataset/test/keyboard/01400275.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.996164083480835,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.00006210803985595703
+        },
+        {
+          "file": "dataset/test/keyboard/01400992.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9749433994293213,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.000020623207092285156
+        },
+        {
+          "file": "dataset/test/keyboard/01401557.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9993935823440552,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0000059604644775390625
+        },
+        {
+          "file": "dataset/test/keyboard/01401571.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9981119632720947,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.000008702278137207031
+        },
+        {
+          "file": "dataset/test/keyboard/01401607.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9985195994377136,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.00001436471939086914
+        },
+        {
+          "file": "dataset/test/keyboard/01402130.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9983243346214294,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0000036954879760742188
+        },
+        {
+          "file": "dataset/test/keyboard/01402212.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9956403970718384,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.000016570091247558594
+        },
+        {
+          "file": "dataset/test/keyboard/01402467.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9853466749191284,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.00011032819747924805
+        },
+        {
+          "file": "dataset/test/keyboard/01402581.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9163927435874939,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.001096963882446289
+        },
+        {
+          "file": "dataset/test/keyboard/01402727.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9227259755134583,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0007705092430114746
+        },
+        {
+          "file": "dataset/test/keyboard/01402772.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.997943103313446,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.00003534555435180664
+        },
+        {
+          "file": "dataset/test/keyboard/01402773.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9030633568763733,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0019853711128234863
+        },
+        {
+          "file": "dataset/test/keyboard/01402795.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9483046531677246,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.000507354736328125
+        },
+        {
+          "file": "dataset/test/keyboard/01402888 - Copy.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9873794317245483,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0001372694969177246
+        },
+        {
+          "file": "dataset/test/keyboard/01402930 - Copy.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9995651841163635,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0000040531158447265625
+        }
+      ]
+    },
+    "convnext": {
+      "labelAgreement": 60,
+      "maxConfidenceError": 0.0004029273986816406,
+      "results": [
+        {
+          "file": "dataset/test/monitor/01601559.jpg",
+          "predicted": "monitor",
+          "confidence": 0.8126572966575623,
+          "python_predicted": "monitor",
+          "confidence_error": 0.0004029273986816406
+        },
+        {
+          "file": "dataset/test/monitor/01602060.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9870858788490295,
+          "python_predicted": "monitor",
+          "confidence_error": 0.000013470649719238281
+        },
+        {
+          "file": "dataset/test/monitor/01602063.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9973921775817871,
+          "python_predicted": "monitor",
+          "confidence_error": 0.0000032186508178710938
+        },
+        {
+          "file": "dataset/test/monitor/01602084.jpg",
+          "predicted": "monitor",
+          "confidence": 0.999966025352478,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01602655.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9999978542327881,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01602689.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9997805953025818,
+          "python_predicted": "monitor",
+          "confidence_error": 3.5762786865234375e-7
+        },
+        {
+          "file": "dataset/test/monitor/01603019.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9997269511222839,
+          "python_predicted": "monitor",
+          "confidence_error": 4.76837158203125e-7
+        },
+        {
+          "file": "dataset/test/monitor/01603557.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9999961853027344,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01603605.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9999649524688721,
+          "python_predicted": "monitor",
+          "confidence_error": 1.1920928955078125e-7
+        },
+        {
+          "file": "dataset/test/monitor/01603634.jpg",
+          "predicted": "monitor",
+          "confidence": 0.999998927116394,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01603668.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9999706745147705,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01603673.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9993917942047119,
+          "python_predicted": "monitor",
+          "confidence_error": 9.5367431640625e-7
+        },
+        {
+          "file": "dataset/test/monitor/01604156.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9999991655349731,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01604170.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9999983310699463,
+          "python_predicted": "monitor",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/monitor/01604317.jpg",
+          "predicted": "monitor",
+          "confidence": 0.9200052618980408,
+          "python_predicted": "monitor",
+          "confidence_error": 0.00013077259063720703
+        },
+        {
+          "file": "dataset/test/telephone/02500082 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9999946355819702,
+          "python_predicted": "telephone",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/telephone/02500277 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9999276399612427,
+          "python_predicted": "telephone",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/telephone/02500287 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9882540702819824,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000033974647521972656
+        },
+        {
+          "file": "dataset/test/telephone/025005066 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9994876384735107,
+          "python_predicted": "telephone",
+          "confidence_error": 5.960464477539062e-7
+        },
+        {
+          "file": "dataset/test/telephone/025005336 - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9992456436157227,
+          "python_predicted": "telephone",
+          "confidence_error": 9.5367431640625e-7
+        },
+        {
+          "file": "dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9993894100189209,
+          "python_predicted": "telephone",
+          "confidence_error": 5.960464477539062e-7
+        },
+        {
+          "file": "dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9999967813491821,
+          "python_predicted": "telephone",
+          "confidence_error": 1.1920928955078125e-7
+        },
+        {
+          "file": "dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9939163327217102,
+          "python_predicted": "telephone",
+          "confidence_error": 0.00002390146255493164
+        },
+        {
+          "file": "dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9870060682296753,
+          "python_predicted": "telephone",
+          "confidence_error": 0.000027179718017578125
+        },
+        {
+          "file": "dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9994687438011169,
+          "python_predicted": "telephone",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9998795986175537,
+          "python_predicted": "telephone",
+          "confidence_error": 2.384185791015625e-7
+        },
+        {
+          "file": "dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9998438358306885,
+          "python_predicted": "telephone",
+          "confidence_error": 2.384185791015625e-7
+        },
+        {
+          "file": "dataset/test/telephone/02504745 - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.99928218126297,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0000035762786865234375
+        },
+        {
+          "file": "dataset/test/telephone/02504782 - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9996993541717529,
+          "python_predicted": "telephone",
+          "confidence_error": 5.960464477539062e-7
+        },
+        {
+          "file": "dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg",
+          "predicted": "telephone",
+          "confidence": 0.9991785883903503,
+          "python_predicted": "telephone",
+          "confidence_error": 0.0000017881393432617188
+        },
+        {
+          "file": "dataset/test/laptop/01500058.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999992847442627,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01500207.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999948740005493,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01501368.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9974055886268616,
+          "python_predicted": "laptop",
+          "confidence_error": 0.000009119510650634766
+        },
+        {
+          "file": "dataset/test/laptop/01501526.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9996970891952515,
+          "python_predicted": "laptop",
+          "confidence_error": 2.384185791015625e-7
+        },
+        {
+          "file": "dataset/test/laptop/01501779.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9996013045310974,
+          "python_predicted": "laptop",
+          "confidence_error": 5.960464477539062e-7
+        },
+        {
+          "file": "dataset/test/laptop/01501840.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9564017057418823,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00015211105346679688
+        },
+        {
+          "file": "dataset/test/laptop/01502030.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9965975880622864,
+          "python_predicted": "laptop",
+          "confidence_error": 0.00002968311309814453
+        },
+        {
+          "file": "dataset/test/laptop/01502195 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999860525131226,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01503039 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999986886978149,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01503168 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999316930770874,
+          "python_predicted": "laptop",
+          "confidence_error": 1.1920928955078125e-7
+        },
+        {
+          "file": "dataset/test/laptop/01503246.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999459981918335,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01503433.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999779462814331,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01503447.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999864101409912,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01503585 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9999866485595703,
+          "python_predicted": "laptop",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/laptop/01503675 - Copy.jpg",
+          "predicted": "laptop",
+          "confidence": 0.9945634007453918,
+          "python_predicted": "laptop",
+          "confidence_error": 0.000026464462280273438
+        },
+        {
+          "file": "dataset/test/keyboard/01400275.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999233484268188,
+          "python_predicted": "keyboard",
+          "confidence_error": 2.384185791015625e-7
+        },
+        {
+          "file": "dataset/test/keyboard/01400992.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999959468841553,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01401557.jpg",
+          "predicted": "keyboard",
+          "confidence": 1,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01401571.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999998807907104,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01401607.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999998807907104,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01402130.jpg",
+          "predicted": "keyboard",
+          "confidence": 1,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01402212.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9997116923332214,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01402467.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999951124191284,
+          "python_predicted": "keyboard",
+          "confidence_error": 1.1920928955078125e-7
+        },
+        {
+          "file": "dataset/test/keyboard/01402581.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9182778596878052,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.00006753206253051758
+        },
+        {
+          "file": "dataset/test/keyboard/01402727.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9910007119178772,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.0001735091209411621
+        },
+        {
+          "file": "dataset/test/keyboard/01402772.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999288320541382,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01402773.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9962431192398071,
+          "python_predicted": "keyboard",
+          "confidence_error": 0.000004649162292480469
+        },
+        {
+          "file": "dataset/test/keyboard/01402795.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9996540546417236,
+          "python_predicted": "keyboard",
+          "confidence_error": 4.76837158203125e-7
+        },
+        {
+          "file": "dataset/test/keyboard/01402888 - Copy.jpg",
+          "predicted": "keyboard",
+          "confidence": 0.9999996423721313,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        },
+        {
+          "file": "dataset/test/keyboard/01402930 - Copy.jpg",
+          "predicted": "keyboard",
+          "confidence": 1,
+          "python_predicted": "keyboard",
+          "confidence_error": 0
+        }
+      ]
+    }
+  }
+}

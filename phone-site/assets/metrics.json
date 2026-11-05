@@ -1,0 +1,1134 @@
+{
+  "seed": 42,
+  "classes": [
+    "monitor",
+    "telephone",
+    "laptop",
+    "keyboard"
+  ],
+  "environment": {
+    "python": "3.10.0",
+    "tensorflow": "2.21.0",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "device": "CPU",
+    "intra_op_threads": 4,
+    "inter_op_threads": 2
+  },
+  "protocol": {
+    "test_images": 60,
+    "conditions": [
+      "clean",
+      "dim",
+      "blur",
+      "noise",
+      "occlusion"
+    ],
+    "training_originals": 279,
+    "extra_training_variants": 558,
+    "validation_images": 59,
+    "duplicate_exclusions": "train/monitor/01602417.jpg; validate/telephone/025005029 - Copy - Copy.jpg",
+    "backbone": "ConvNeXt-Tiny ImageNet-1k, frozen",
+    "head": "768 -> 4 softmax",
+    "optimizer": "Adam 0.001",
+    "max_epochs": 80,
+    "early_stopping": "clean validation loss, patience 10; restore best",
+    "stress_warning": "Corruptions reuse the same 60 test images; they are not independent new samples."
+  },
+  "models": {
+    "a1_mobilenet": {
+      "clean": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      },
+      "dim": {
+        "accuracy": 0.9833333333333333,
+        "macro_f1": 0.9833147942157954,
+        "correct": 59,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            14,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9655172413793104,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 0.9375,
+            "recall": 1.0,
+            "f1-score": 0.967741935483871,
+            "support": 15.0
+          },
+          "accuracy": 0.9833333333333333,
+          "macro avg": {
+            "precision": 0.984375,
+            "recall": 0.9833333333333334,
+            "f1-score": 0.9833147942157954,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.984375,
+            "recall": 0.9833333333333333,
+            "f1-score": 0.9833147942157954,
+            "support": 60.0
+          }
+        }
+      },
+      "blur": {
+        "accuracy": 0.9666666666666667,
+        "macro_f1": 0.9666666666666668,
+        "correct": 58,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            14,
+            0,
+            1
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            14
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 0.9333333333333333,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9333333333333333,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 0.9333333333333333,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9333333333333333,
+            "support": 15.0
+          },
+          "accuracy": 0.9666666666666667,
+          "macro avg": {
+            "precision": 0.9666666666666668,
+            "recall": 0.9666666666666668,
+            "f1-score": 0.9666666666666668,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.9666666666666667,
+            "recall": 0.9666666666666667,
+            "f1-score": 0.9666666666666667,
+            "support": 60.0
+          }
+        }
+      },
+      "noise": {
+        "accuracy": 0.9166666666666666,
+        "macro_f1": 0.9165589080459771,
+        "correct": 55,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            13,
+            0,
+            1,
+            1
+          ],
+          [
+            0,
+            14,
+            0,
+            1
+          ],
+          [
+            2,
+            0,
+            13,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 0.8666666666666667,
+            "recall": 0.8666666666666667,
+            "f1-score": 0.8666666666666667,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9655172413793104,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 0.9285714285714286,
+            "recall": 0.8666666666666667,
+            "f1-score": 0.896551724137931,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 0.8823529411764706,
+            "recall": 1.0,
+            "f1-score": 0.9375,
+            "support": 15.0
+          },
+          "accuracy": 0.9166666666666666,
+          "macro avg": {
+            "precision": 0.9193977591036414,
+            "recall": 0.9166666666666667,
+            "f1-score": 0.9165589080459771,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.9193977591036415,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.9165589080459771,
+            "support": 60.0
+          }
+        }
+      },
+      "occlusion": {
+        "accuracy": 0.9833333333333333,
+        "macro_f1": 0.9833147942157954,
+        "correct": 59,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            14
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 0.9375,
+            "recall": 1.0,
+            "f1-score": 0.967741935483871,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9655172413793104,
+            "support": 15.0
+          },
+          "accuracy": 0.9833333333333333,
+          "macro avg": {
+            "precision": 0.984375,
+            "recall": 0.9833333333333334,
+            "f1-score": 0.9833147942157954,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.984375,
+            "recall": 0.9833333333333333,
+            "f1-score": 0.9833147942157954,
+            "support": 60.0
+          }
+        }
+      }
+    },
+    "convnext_plain": {
+      "clean": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      },
+      "dim": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      },
+      "blur": {
+        "accuracy": 0.9166666666666666,
+        "macro_f1": 0.9175231011945009,
+        "correct": 55,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            14,
+            0,
+            0
+          ],
+          [
+            3,
+            0,
+            12,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            14
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 0.7894736842105263,
+            "recall": 1.0,
+            "f1-score": 0.8823529411764706,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 0.9333333333333333,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9333333333333333,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 0.8,
+            "f1-score": 0.8888888888888888,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9655172413793104,
+            "support": 15.0
+          },
+          "accuracy": 0.9166666666666666,
+          "macro avg": {
+            "precision": 0.9307017543859649,
+            "recall": 0.9166666666666667,
+            "f1-score": 0.9175231011945009,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.9307017543859649,
+            "recall": 0.9166666666666666,
+            "f1-score": 0.9175231011945008,
+            "support": 60.0
+          }
+        }
+      },
+      "noise": {
+        "accuracy": 0.9833333333333333,
+        "macro_f1": 0.9833147942157954,
+        "correct": 59,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            14,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 0.9375,
+            "recall": 1.0,
+            "f1-score": 0.967741935483871,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9655172413793104,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 0.9833333333333333,
+          "macro avg": {
+            "precision": 0.984375,
+            "recall": 0.9833333333333334,
+            "f1-score": 0.9833147942157954,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.984375,
+            "recall": 0.9833333333333333,
+            "f1-score": 0.9833147942157954,
+            "support": 60.0
+          }
+        }
+      },
+      "occlusion": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      }
+    },
+    "convnext_robust": {
+      "clean": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      },
+      "dim": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      },
+      "blur": {
+        "accuracy": 0.9,
+        "macro_f1": 0.8990297059262577,
+        "correct": 54,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            13,
+            1,
+            1
+          ],
+          [
+            3,
+            0,
+            12,
+            0
+          ],
+          [
+            0,
+            1,
+            0,
+            14
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 0.8333333333333334,
+            "recall": 1.0,
+            "f1-score": 0.9090909090909091,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 0.9285714285714286,
+            "recall": 0.8666666666666667,
+            "f1-score": 0.896551724137931,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 0.9230769230769231,
+            "recall": 0.8,
+            "f1-score": 0.8571428571428571,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 0.9333333333333333,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9333333333333333,
+            "support": 15.0
+          },
+          "accuracy": 0.9,
+          "macro avg": {
+            "precision": 0.9045787545787547,
+            "recall": 0.9000000000000001,
+            "f1-score": 0.8990297059262577,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.9045787545787546,
+            "recall": 0.9,
+            "f1-score": 0.8990297059262576,
+            "support": 60.0
+          }
+        }
+      },
+      "noise": {
+        "accuracy": 0.9666666666666667,
+        "macro_f1": 0.9666481275491288,
+        "correct": 58,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            14,
+            1,
+            0
+          ],
+          [
+            1,
+            0,
+            14,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 0.9375,
+            "recall": 1.0,
+            "f1-score": 0.967741935483871,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9655172413793104,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 0.9333333333333333,
+            "recall": 0.9333333333333333,
+            "f1-score": 0.9333333333333333,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 0.9666666666666667,
+          "macro avg": {
+            "precision": 0.9677083333333334,
+            "recall": 0.9666666666666667,
+            "f1-score": 0.9666481275491288,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 0.9677083333333333,
+            "recall": 0.9666666666666667,
+            "f1-score": 0.9666481275491287,
+            "support": 60.0
+          }
+        }
+      },
+      "occlusion": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "correct": 60,
+        "n": 60,
+        "confusion_matrix": [
+          [
+            15,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            15,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            15,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            15
+          ]
+        ],
+        "per_class": {
+          "monitor": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "telephone": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "laptop": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "keyboard": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 15.0
+          },
+          "accuracy": 1.0,
+          "macro avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          },
+          "weighted avg": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 60.0
+          }
+        }
+      }
+    }
+  },
+  "latency": {
+    "a1_mobilenet": {
+      "mean_ms": 258.43850497622043,
+      "median_ms": 255.62339997850358,
+      "std_ms": 14.285746606290601,
+      "runs": 20,
+      "warmups": 3
+    },
+    "convnext_plain": {
+      "mean_ms": 295.68808000767604,
+      "median_ms": 292.45435004122555,
+      "std_ms": 11.31676701290025,
+      "runs": 20,
+      "warmups": 3
+    },
+    "convnext_robust": {
+      "mean_ms": 331.0185150243342,
+      "median_ms": 317.3380499938503,
+      "std_ms": 39.41526745193601,
+      "runs": 20,
+      "warmups": 3
+    }
+  }
+}

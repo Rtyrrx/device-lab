@@ -1,0 +1,12 @@
+[
+  {
+    "a": "test/telephone/025005066 - Copy - Copy.jpg",
+    "b": "validate/telephone/025005029 - Copy - Copy.jpg",
+    "dhash_distance": 4
+  },
+  {
+    "a": "train/monitor/01602417.jpg",
+    "b": "validate/monitor/01601838.jpg",
+    "dhash_distance": 3
+  }
+]

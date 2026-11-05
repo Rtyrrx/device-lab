@@ -1,0 +1,901 @@
+model,condition,file,true,predicted,confidence
+a1_mobilenet,clean,dataset/test/monitor/01601559.jpg,monitor,monitor,0.8667765259742737
+a1_mobilenet,clean,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9771376848220825
+a1_mobilenet,clean,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9986029267311096
+a1_mobilenet,clean,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9991982579231262
+a1_mobilenet,clean,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9988885521888733
+a1_mobilenet,clean,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9598277807235718
+a1_mobilenet,clean,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9814483523368835
+a1_mobilenet,clean,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9994521737098694
+a1_mobilenet,clean,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9921070337295532
+a1_mobilenet,clean,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9962853193283081
+a1_mobilenet,clean,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9858107566833496
+a1_mobilenet,clean,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9608308672904968
+a1_mobilenet,clean,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9928029179573059
+a1_mobilenet,clean,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9964138865470886
+a1_mobilenet,clean,dataset/test/monitor/01604317.jpg,monitor,monitor,0.6878739595413208
+a1_mobilenet,clean,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9975663423538208
+a1_mobilenet,clean,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9978390336036682
+a1_mobilenet,clean,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9892587065696716
+a1_mobilenet,clean,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.808579683303833
+a1_mobilenet,clean,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9998154044151306
+a1_mobilenet,clean,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9938795566558838
+a1_mobilenet,clean,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9997310042381287
+a1_mobilenet,clean,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9835126996040344
+a1_mobilenet,clean,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9856382012367249
+a1_mobilenet,clean,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.997065007686615
+a1_mobilenet,clean,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9965181350708008
+a1_mobilenet,clean,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9787272810935974
+a1_mobilenet,clean,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9933409094810486
+a1_mobilenet,clean,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.96123868227005
+a1_mobilenet,clean,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.8774802684783936
+a1_mobilenet,clean,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9958719611167908
+a1_mobilenet,clean,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9870821237564087
+a1_mobilenet,clean,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9781194925308228
+a1_mobilenet,clean,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9859144687652588
+a1_mobilenet,clean,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9815458655357361
+a1_mobilenet,clean,dataset/test/laptop/01501840.jpg,laptop,laptop,0.9431644082069397
+a1_mobilenet,clean,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9396363496780396
+a1_mobilenet,clean,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9991996884346008
+a1_mobilenet,clean,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9994174242019653
+a1_mobilenet,clean,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9880565404891968
+a1_mobilenet,clean,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9991056323051453
+a1_mobilenet,clean,dataset/test/laptop/01503433.jpg,laptop,laptop,0.996752917766571
+a1_mobilenet,clean,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9983003735542297
+a1_mobilenet,clean,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9982269406318665
+a1_mobilenet,clean,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9981669187545776
+a1_mobilenet,clean,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.996101975440979
+a1_mobilenet,clean,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9749640226364136
+a1_mobilenet,clean,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9993876218795776
+a1_mobilenet,clean,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9981032609939575
+a1_mobilenet,clean,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9985339641571045
+a1_mobilenet,clean,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9983206391334534
+a1_mobilenet,clean,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9956569671630859
+a1_mobilenet,clean,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9854570031166077
+a1_mobilenet,clean,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.9152957797050476
+a1_mobilenet,clean,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9219554662704468
+a1_mobilenet,clean,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9979077577590942
+a1_mobilenet,clean,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9050487279891968
+a1_mobilenet,clean,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9477972984313965
+a1_mobilenet,clean,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9875167012214661
+a1_mobilenet,clean,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9995692372322083
+convnext_plain,clean,dataset/test/monitor/01601559.jpg,monitor,monitor,0.7783601880073547
+convnext_plain,clean,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9744463562965393
+convnext_plain,clean,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9664626717567444
+convnext_plain,clean,dataset/test/monitor/01602084.jpg,monitor,monitor,0.998900294303894
+convnext_plain,clean,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9998558759689331
+convnext_plain,clean,dataset/test/monitor/01602689.jpg,monitor,monitor,0.996124804019928
+convnext_plain,clean,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9975249171257019
+convnext_plain,clean,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9998390674591064
+convnext_plain,clean,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9992415904998779
+convnext_plain,clean,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9998915195465088
+convnext_plain,clean,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9990866184234619
+convnext_plain,clean,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9950268864631653
+convnext_plain,clean,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999533891677856
+convnext_plain,clean,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9999005794525146
+convnext_plain,clean,dataset/test/monitor/01604317.jpg,monitor,monitor,0.9088893532752991
+convnext_plain,clean,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9998936653137207
+convnext_plain,clean,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9986900687217712
+convnext_plain,clean,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.969129741191864
+convnext_plain,clean,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9953136444091797
+convnext_plain,clean,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9922371506690979
+convnext_plain,clean,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9945456981658936
+convnext_plain,clean,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998806715011597
+convnext_plain,clean,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.964861273765564
+convnext_plain,clean,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.8996994495391846
+convnext_plain,clean,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9962420463562012
+convnext_plain,clean,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9989977478981018
+convnext_plain,clean,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9980560541152954
+convnext_plain,clean,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.99647456407547
+convnext_plain,clean,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9975237250328064
+convnext_plain,clean,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9926590323448181
+convnext_plain,clean,dataset/test/laptop/01500058.jpg,laptop,laptop,0.999975323677063
+convnext_plain,clean,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9998420476913452
+convnext_plain,clean,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9767085909843445
+convnext_plain,clean,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9925329685211182
+convnext_plain,clean,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9933398365974426
+convnext_plain,clean,dataset/test/laptop/01501840.jpg,laptop,laptop,0.9189029335975647
+convnext_plain,clean,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9870755076408386
+convnext_plain,clean,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.999729335308075
+convnext_plain,clean,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9999653100967407
+convnext_plain,clean,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9991846680641174
+convnext_plain,clean,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9985045194625854
+convnext_plain,clean,dataset/test/laptop/01503433.jpg,laptop,laptop,0.999574601650238
+convnext_plain,clean,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9998040795326233
+convnext_plain,clean,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9996193647384644
+convnext_plain,clean,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9665758013725281
+convnext_plain,clean,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.997309684753418
+convnext_plain,clean,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9998706579208374
+convnext_plain,clean,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9999967813491821
+convnext_plain,clean,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999552965164185
+convnext_plain,clean,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999865293502808
+convnext_plain,clean,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9999982118606567
+convnext_plain,clean,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.996698796749115
+convnext_plain,clean,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9997226595878601
+convnext_plain,clean,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.8573094010353088
+convnext_plain,clean,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9194469451904297
+convnext_plain,clean,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9983177185058594
+convnext_plain,clean,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.972345232963562
+convnext_plain,clean,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9937595725059509
+convnext_plain,clean,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9999464750289917
+convnext_plain,clean,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999971389770508
+convnext_robust,clean,dataset/test/monitor/01601559.jpg,monitor,monitor,0.8130602240562439
+convnext_robust,clean,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9870724081993103
+convnext_robust,clean,dataset/test/monitor/01602063.jpg,monitor,monitor,0.997395396232605
+convnext_robust,clean,dataset/test/monitor/01602084.jpg,monitor,monitor,0.999966025352478
+convnext_robust,clean,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9999978542327881
+convnext_robust,clean,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9997802376747131
+convnext_robust,clean,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9997264742851257
+convnext_robust,clean,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9999961853027344
+convnext_robust,clean,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9999648332595825
+convnext_robust,clean,dataset/test/monitor/01603634.jpg,monitor,monitor,0.999998927116394
+convnext_robust,clean,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9999706745147705
+convnext_robust,clean,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9993927478790283
+convnext_robust,clean,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999991655349731
+convnext_robust,clean,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9999983310699463
+convnext_robust,clean,dataset/test/monitor/01604317.jpg,monitor,monitor,0.920136034488678
+convnext_robust,clean,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9999946355819702
+convnext_robust,clean,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9999276399612427
+convnext_robust,clean,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9882200956344604
+convnext_robust,clean,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.999487042427063
+convnext_robust,clean,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9992446899414062
+convnext_robust,clean,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9993900060653687
+convnext_robust,clean,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9999966621398926
+convnext_robust,clean,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9939402341842651
+convnext_robust,clean,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9870332479476929
+convnext_robust,clean,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9994687438011169
+convnext_robust,clean,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998793601989746
+convnext_robust,clean,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998435974121094
+convnext_robust,clean,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9992786049842834
+convnext_robust,clean,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9996987581253052
+convnext_robust,clean,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9991768002510071
+convnext_robust,clean,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9999992847442627
+convnext_robust,clean,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9999948740005493
+convnext_robust,clean,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9974147081375122
+convnext_robust,clean,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9996973276138306
+convnext_robust,clean,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9996019005775452
+convnext_robust,clean,dataset/test/laptop/01501840.jpg,laptop,laptop,0.9562495946884155
+convnext_robust,clean,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9966272711753845
+convnext_robust,clean,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9999860525131226
+convnext_robust,clean,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9999986886978149
+convnext_robust,clean,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.999931812286377
+convnext_robust,clean,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9999459981918335
+convnext_robust,clean,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9999779462814331
+convnext_robust,clean,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9999864101409912
+convnext_robust,clean,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9999866485595703
+convnext_robust,clean,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9945369362831116
+convnext_robust,clean,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9999231100082397
+convnext_robust,clean,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9999959468841553
+convnext_robust,clean,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,1.0
+convnext_robust,clean,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999998807907104
+convnext_robust,clean,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999998807907104
+convnext_robust,clean,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,1.0
+convnext_robust,clean,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9997116923332214
+convnext_robust,clean,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.999995231628418
+convnext_robust,clean,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.9182103276252747
+convnext_robust,clean,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9911742210388184
+convnext_robust,clean,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9999288320541382
+convnext_robust,clean,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9962384700775146
+convnext_robust,clean,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9996535778045654
+convnext_robust,clean,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9999996423721313
+convnext_robust,clean,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,1.0
+a1_mobilenet,dim,dataset/test/monitor/01601559.jpg,monitor,monitor,0.6639672517776489
+a1_mobilenet,dim,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9618276953697205
+a1_mobilenet,dim,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9984421133995056
+a1_mobilenet,dim,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9994468092918396
+a1_mobilenet,dim,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9979040622711182
+a1_mobilenet,dim,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9760796427726746
+a1_mobilenet,dim,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9936530590057373
+a1_mobilenet,dim,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9995768666267395
+a1_mobilenet,dim,dataset/test/monitor/01603605.jpg,monitor,monitor,0.990260660648346
+a1_mobilenet,dim,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9904422163963318
+a1_mobilenet,dim,dataset/test/monitor/01603668.jpg,monitor,monitor,0.99733966588974
+a1_mobilenet,dim,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9408962726593018
+a1_mobilenet,dim,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9984220266342163
+a1_mobilenet,dim,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9941786527633667
+a1_mobilenet,dim,dataset/test/monitor/01604317.jpg,monitor,keyboard,0.6358331441879272
+a1_mobilenet,dim,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9956986904144287
+a1_mobilenet,dim,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9847989678382874
+a1_mobilenet,dim,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9954948425292969
+a1_mobilenet,dim,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.5592468976974487
+a1_mobilenet,dim,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.99958735704422
+a1_mobilenet,dim,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9961257576942444
+a1_mobilenet,dim,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9996886253356934
+a1_mobilenet,dim,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9896842241287231
+a1_mobilenet,dim,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9929280877113342
+a1_mobilenet,dim,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9524754881858826
+a1_mobilenet,dim,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9969837069511414
+a1_mobilenet,dim,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9248824715614319
+a1_mobilenet,dim,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9945331811904907
+a1_mobilenet,dim,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9460964798927307
+a1_mobilenet,dim,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9410809278488159
+a1_mobilenet,dim,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9956990480422974
+a1_mobilenet,dim,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9819729328155518
+a1_mobilenet,dim,dataset/test/laptop/01501368.jpg,laptop,laptop,0.8398417234420776
+a1_mobilenet,dim,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9957846999168396
+a1_mobilenet,dim,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9787619113922119
+a1_mobilenet,dim,dataset/test/laptop/01501840.jpg,laptop,laptop,0.9707539081573486
+a1_mobilenet,dim,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9154085516929626
+a1_mobilenet,dim,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9995228052139282
+a1_mobilenet,dim,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9985337257385254
+a1_mobilenet,dim,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9827238917350769
+a1_mobilenet,dim,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9963233470916748
+a1_mobilenet,dim,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9951777458190918
+a1_mobilenet,dim,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9989797472953796
+a1_mobilenet,dim,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9951377511024475
+a1_mobilenet,dim,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9975265860557556
+a1_mobilenet,dim,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9897516965866089
+a1_mobilenet,dim,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.99114590883255
+a1_mobilenet,dim,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9998205304145813
+a1_mobilenet,dim,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9930661916732788
+a1_mobilenet,dim,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9956279993057251
+a1_mobilenet,dim,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9964235424995422
+a1_mobilenet,dim,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9986593723297119
+a1_mobilenet,dim,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9968223571777344
+a1_mobilenet,dim,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.985612690448761
+a1_mobilenet,dim,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9834368228912354
+a1_mobilenet,dim,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9996987581253052
+a1_mobilenet,dim,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9851351380348206
+a1_mobilenet,dim,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9941056966781616
+a1_mobilenet,dim,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9922724962234497
+a1_mobilenet,dim,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9990615248680115
+convnext_plain,dim,dataset/test/monitor/01601559.jpg,monitor,monitor,0.8965622186660767
+convnext_plain,dim,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9773010611534119
+convnext_plain,dim,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9435930252075195
+convnext_plain,dim,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9965655207633972
+convnext_plain,dim,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9998571872711182
+convnext_plain,dim,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9956613183021545
+convnext_plain,dim,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9967508316040039
+convnext_plain,dim,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9997784495353699
+convnext_plain,dim,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9982231259346008
+convnext_plain,dim,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9993752837181091
+convnext_plain,dim,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9985170960426331
+convnext_plain,dim,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9956627488136292
+convnext_plain,dim,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9996769428253174
+convnext_plain,dim,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9997536540031433
+convnext_plain,dim,dataset/test/monitor/01604317.jpg,monitor,monitor,0.9169421792030334
+convnext_plain,dim,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9996151924133301
+convnext_plain,dim,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9981252551078796
+convnext_plain,dim,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9666013121604919
+convnext_plain,dim,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9937140345573425
+convnext_plain,dim,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9820138812065125
+convnext_plain,dim,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9932788014411926
+convnext_plain,dim,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9995425939559937
+convnext_plain,dim,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9500818252563477
+convnext_plain,dim,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.8780241012573242
+convnext_plain,dim,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9948717951774597
+convnext_plain,dim,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9975005984306335
+convnext_plain,dim,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9978912472724915
+convnext_plain,dim,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.994368851184845
+convnext_plain,dim,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9941936135292053
+convnext_plain,dim,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9818201065063477
+convnext_plain,dim,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9997702240943909
+convnext_plain,dim,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9985822439193726
+convnext_plain,dim,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9382427334785461
+convnext_plain,dim,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9779754877090454
+convnext_plain,dim,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9865117073059082
+convnext_plain,dim,dataset/test/laptop/01501840.jpg,laptop,laptop,0.7445695400238037
+convnext_plain,dim,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9771649241447449
+convnext_plain,dim,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.993461012840271
+convnext_plain,dim,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9996140599250793
+convnext_plain,dim,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9857435822486877
+convnext_plain,dim,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9968648552894592
+convnext_plain,dim,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9864487051963806
+convnext_plain,dim,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9969838261604309
+convnext_plain,dim,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9948004484176636
+convnext_plain,dim,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.5451505780220032
+convnext_plain,dim,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9881837964057922
+convnext_plain,dim,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.999777615070343
+convnext_plain,dim,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9999613761901855
+convnext_plain,dim,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9992709755897522
+convnext_plain,dim,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9998874664306641
+convnext_plain,dim,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.999908447265625
+convnext_plain,dim,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9823119640350342
+convnext_plain,dim,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9995564818382263
+convnext_plain,dim,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.6253301501274109
+convnext_plain,dim,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9810004234313965
+convnext_plain,dim,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9954120516777039
+convnext_plain,dim,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.8837220668792725
+convnext_plain,dim,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9627907276153564
+convnext_plain,dim,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9997566342353821
+convnext_plain,dim,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999493360519409
+convnext_robust,dim,dataset/test/monitor/01601559.jpg,monitor,monitor,0.8923246264457703
+convnext_robust,dim,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9756981730461121
+convnext_robust,dim,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9896255135536194
+convnext_robust,dim,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9995744824409485
+convnext_robust,dim,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9999958276748657
+convnext_robust,dim,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9996005892753601
+convnext_robust,dim,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9992934465408325
+convnext_robust,dim,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9999947547912598
+convnext_robust,dim,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9998513460159302
+convnext_robust,dim,dataset/test/monitor/01603634.jpg,monitor,monitor,0.999977707862854
+convnext_robust,dim,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9999034404754639
+convnext_robust,dim,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9989423155784607
+convnext_robust,dim,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999678134918213
+convnext_robust,dim,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9999899864196777
+convnext_robust,dim,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8948898315429688
+convnext_robust,dim,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9999704360961914
+convnext_robust,dim,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9998515844345093
+convnext_robust,dim,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9895327091217041
+convnext_robust,dim,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9987167119979858
+convnext_robust,dim,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9963994026184082
+convnext_robust,dim,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9991917014122009
+convnext_robust,dim,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9999685287475586
+convnext_robust,dim,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9887006878852844
+convnext_robust,dim,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9694303870201111
+convnext_robust,dim,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9990068078041077
+convnext_robust,dim,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9996110796928406
+convnext_robust,dim,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9996939897537231
+convnext_robust,dim,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9974665641784668
+convnext_robust,dim,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9986361861228943
+convnext_robust,dim,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9945819973945618
+convnext_robust,dim,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9999901056289673
+convnext_robust,dim,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9999487400054932
+convnext_robust,dim,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9951948523521423
+convnext_robust,dim,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9993253946304321
+convnext_robust,dim,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9995461106300354
+convnext_robust,dim,dataset/test/laptop/01501840.jpg,laptop,laptop,0.904190182685852
+convnext_robust,dim,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9936581254005432
+convnext_robust,dim,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9997091889381409
+convnext_robust,dim,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9999866485595703
+convnext_robust,dim,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9990874528884888
+convnext_robust,dim,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9998866319656372
+convnext_robust,dim,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9992192983627319
+convnext_robust,dim,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9998130202293396
+convnext_robust,dim,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9998316764831543
+convnext_robust,dim,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.8906857967376709
+convnext_robust,dim,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9989946484565735
+convnext_robust,dim,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9999889135360718
+convnext_robust,dim,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9999997615814209
+convnext_robust,dim,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999942779541016
+convnext_robust,dim,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999985694885254
+convnext_robust,dim,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9999992847442627
+convnext_robust,dim,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9982652068138123
+convnext_robust,dim,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.999976634979248
+convnext_robust,dim,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.7616443634033203
+convnext_robust,dim,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9971936941146851
+convnext_robust,dim,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9998430013656616
+convnext_robust,dim,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9848541021347046
+convnext_robust,dim,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9975282549858093
+convnext_robust,dim,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.999996542930603
+convnext_robust,dim,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999995231628418
+a1_mobilenet,blur,dataset/test/monitor/01601559.jpg,monitor,monitor,0.7812781929969788
+a1_mobilenet,blur,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9120373725891113
+a1_mobilenet,blur,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9981712102890015
+a1_mobilenet,blur,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9986529350280762
+a1_mobilenet,blur,dataset/test/monitor/01602655.jpg,monitor,monitor,0.8220328092575073
+a1_mobilenet,blur,dataset/test/monitor/01602689.jpg,monitor,monitor,0.6964395046234131
+a1_mobilenet,blur,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9845401644706726
+a1_mobilenet,blur,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9483622908592224
+a1_mobilenet,blur,dataset/test/monitor/01603605.jpg,monitor,monitor,0.7734289169311523
+a1_mobilenet,blur,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9578025341033936
+a1_mobilenet,blur,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9618411064147949
+a1_mobilenet,blur,dataset/test/monitor/01603673.jpg,monitor,monitor,0.8661916851997375
+a1_mobilenet,blur,dataset/test/monitor/01604156.jpg,monitor,monitor,0.925659716129303
+a1_mobilenet,blur,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9335480332374573
+a1_mobilenet,blur,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8695870637893677
+a1_mobilenet,blur,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9950716495513916
+a1_mobilenet,blur,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9972009658813477
+a1_mobilenet,blur,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.8712002038955688
+a1_mobilenet,blur,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.39052072167396545
+a1_mobilenet,blur,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9860490560531616
+a1_mobilenet,blur,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9558525681495667
+a1_mobilenet,blur,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9958320260047913
+a1_mobilenet,blur,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9916150569915771
+a1_mobilenet,blur,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9808757305145264
+a1_mobilenet,blur,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9972780346870422
+a1_mobilenet,blur,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9928770661354065
+a1_mobilenet,blur,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,keyboard,0.5777767896652222
+a1_mobilenet,blur,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.7986056208610535
+a1_mobilenet,blur,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.6315259337425232
+a1_mobilenet,blur,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.6766388416290283
+a1_mobilenet,blur,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9992043375968933
+a1_mobilenet,blur,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9976174235343933
+a1_mobilenet,blur,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9810842871665955
+a1_mobilenet,blur,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9928198456764221
+a1_mobilenet,blur,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9924490451812744
+a1_mobilenet,blur,dataset/test/laptop/01501840.jpg,laptop,laptop,0.9776647686958313
+a1_mobilenet,blur,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9729704856872559
+a1_mobilenet,blur,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9941555261611938
+a1_mobilenet,blur,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9974066615104675
+a1_mobilenet,blur,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9813069105148315
+a1_mobilenet,blur,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9940618872642517
+a1_mobilenet,blur,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9976582527160645
+a1_mobilenet,blur,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9987983703613281
+a1_mobilenet,blur,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9961652755737305
+a1_mobilenet,blur,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9988521337509155
+a1_mobilenet,blur,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9995369911193848
+a1_mobilenet,blur,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9804673194885254
+a1_mobilenet,blur,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9960022568702698
+a1_mobilenet,blur,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9983589053153992
+a1_mobilenet,blur,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9974343180656433
+a1_mobilenet,blur,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9974532723426819
+a1_mobilenet,blur,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9733632206916809
+a1_mobilenet,blur,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9915834069252014
+a1_mobilenet,blur,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.7282752394676208
+a1_mobilenet,blur,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9930198788642883
+a1_mobilenet,blur,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.981539785861969
+a1_mobilenet,blur,dataset/test/keyboard/01402773.jpg,keyboard,telephone,0.7528502941131592
+a1_mobilenet,blur,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.6975523829460144
+a1_mobilenet,blur,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9829504489898682
+a1_mobilenet,blur,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9989036321640015
+convnext_plain,blur,dataset/test/monitor/01601559.jpg,monitor,monitor,0.5577529668807983
+convnext_plain,blur,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9862834215164185
+convnext_plain,blur,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9966193437576294
+convnext_plain,blur,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9489858746528625
+convnext_plain,blur,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9998179078102112
+convnext_plain,blur,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9984645843505859
+convnext_plain,blur,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9545679688453674
+convnext_plain,blur,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9982130527496338
+convnext_plain,blur,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9974710941314697
+convnext_plain,blur,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9954987168312073
+convnext_plain,blur,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9916337728500366
+convnext_plain,blur,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9983017444610596
+convnext_plain,blur,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9998617172241211
+convnext_plain,blur,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9990646243095398
+convnext_plain,blur,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8274191617965698
+convnext_plain,blur,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9989482760429382
+convnext_plain,blur,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9939106702804565
+convnext_plain,blur,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,monitor,0.5398299694061279
+convnext_plain,blur,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9727053642272949
+convnext_plain,blur,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.8419498205184937
+convnext_plain,blur,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9892345666885376
+convnext_plain,blur,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998571872711182
+convnext_plain,blur,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9055643081665039
+convnext_plain,blur,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.6506235599517822
+convnext_plain,blur,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.989441990852356
+convnext_plain,blur,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9955230951309204
+convnext_plain,blur,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9938386082649231
+convnext_plain,blur,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.5134579539299011
+convnext_plain,blur,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.6179313063621521
+convnext_plain,blur,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.7917965650558472
+convnext_plain,blur,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9997096657752991
+convnext_plain,blur,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9975155591964722
+convnext_plain,blur,dataset/test/laptop/01501368.jpg,laptop,monitor,0.8723779320716858
+convnext_plain,blur,dataset/test/laptop/01501526.jpg,laptop,monitor,0.8041307330131531
+convnext_plain,blur,dataset/test/laptop/01501779.jpg,laptop,laptop,0.7824361324310303
+convnext_plain,blur,dataset/test/laptop/01501840.jpg,laptop,monitor,0.947964072227478
+convnext_plain,blur,dataset/test/laptop/01502030.jpg,laptop,laptop,0.978445291519165
+convnext_plain,blur,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9789282083511353
+convnext_plain,blur,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9998908042907715
+convnext_plain,blur,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9586964249610901
+convnext_plain,blur,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9901807308197021
+convnext_plain,blur,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9792506694793701
+convnext_plain,blur,dataset/test/laptop/01503447.jpg,laptop,laptop,0.999230146408081
+convnext_plain,blur,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9867695569992065
+convnext_plain,blur,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.99676513671875
+convnext_plain,blur,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9997484087944031
+convnext_plain,blur,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9997772574424744
+convnext_plain,blur,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.999984860420227
+convnext_plain,blur,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999315738677979
+convnext_plain,blur,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9996923208236694
+convnext_plain,blur,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9999808073043823
+convnext_plain,blur,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9769369959831238
+convnext_plain,blur,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9957441687583923
+convnext_plain,blur,dataset/test/keyboard/01402581.jpg,keyboard,telephone,0.5039757490158081
+convnext_plain,blur,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.998053789138794
+convnext_plain,blur,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.49457672238349915
+convnext_plain,blur,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.6474014520645142
+convnext_plain,blur,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.8362733721733093
+convnext_plain,blur,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9867236018180847
+convnext_plain,blur,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999605417251587
+convnext_robust,blur,dataset/test/monitor/01601559.jpg,monitor,monitor,0.6505158543586731
+convnext_robust,blur,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9960067868232727
+convnext_robust,blur,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9997331500053406
+convnext_robust,blur,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9893346428871155
+convnext_robust,blur,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9999969005584717
+convnext_robust,blur,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9998830556869507
+convnext_robust,blur,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9498238563537598
+convnext_robust,blur,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9998506307601929
+convnext_robust,blur,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9998157620429993
+convnext_robust,blur,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9996906518936157
+convnext_robust,blur,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9992936849594116
+convnext_robust,blur,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9998292922973633
+convnext_robust,blur,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999938011169434
+convnext_robust,blur,dataset/test/monitor/01604170.jpg,monitor,monitor,0.999950647354126
+convnext_robust,blur,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8208141922950745
+convnext_robust,blur,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9999339580535889
+convnext_robust,blur,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9994285702705383
+convnext_robust,blur,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.5594227313995361
+convnext_robust,blur,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9709208011627197
+convnext_robust,blur,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9123372435569763
+convnext_robust,blur,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9990378618240356
+convnext_robust,blur,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9999971389770508
+convnext_robust,blur,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9874324798583984
+convnext_robust,blur,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.7058157920837402
+convnext_robust,blur,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9982178807258606
+convnext_robust,blur,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9995574355125427
+convnext_robust,blur,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9992870688438416
+convnext_robust,blur,dataset/test/telephone/02504745 - Copy.jpg,telephone,laptop,0.5799278020858765
+convnext_robust,blur,dataset/test/telephone/02504782 - Copy.jpg,telephone,keyboard,0.5171234011650085
+convnext_robust,blur,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.8829850554466248
+convnext_robust,blur,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9999918937683105
+convnext_robust,blur,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9999111890792847
+convnext_robust,blur,dataset/test/laptop/01501368.jpg,laptop,monitor,0.9377782940864563
+convnext_robust,blur,dataset/test/laptop/01501526.jpg,laptop,monitor,0.7189581990242004
+convnext_robust,blur,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9292485117912292
+convnext_robust,blur,dataset/test/laptop/01501840.jpg,laptop,monitor,0.9518754482269287
+convnext_robust,blur,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9966997504234314
+convnext_robust,blur,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9970160722732544
+convnext_robust,blur,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.999996542930603
+convnext_robust,blur,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.99642413854599
+convnext_robust,blur,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9996110796928406
+convnext_robust,blur,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9986292123794556
+convnext_robust,blur,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9999701976776123
+convnext_robust,blur,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9993532299995422
+convnext_robust,blur,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9998657703399658
+convnext_robust,blur,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.999995231628418
+convnext_robust,blur,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9999908208847046
+convnext_robust,blur,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,1.0
+convnext_robust,blur,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999997615814209
+convnext_robust,blur,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999912977218628
+convnext_robust,blur,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9999998807907104
+convnext_robust,blur,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9960156083106995
+convnext_robust,blur,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9998780488967896
+convnext_robust,blur,dataset/test/keyboard/01402581.jpg,keyboard,telephone,0.68136066198349
+convnext_robust,blur,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9999212026596069
+convnext_robust,blur,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.7038642764091492
+convnext_robust,blur,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.7394667863845825
+convnext_robust,blur,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.969817578792572
+convnext_robust,blur,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9974977374076843
+convnext_robust,blur,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999996423721313
+a1_mobilenet,noise,dataset/test/monitor/01601559.jpg,monitor,monitor,0.9825626611709595
+a1_mobilenet,noise,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9949638843536377
+a1_mobilenet,noise,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9988956451416016
+a1_mobilenet,noise,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9953232407569885
+a1_mobilenet,noise,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9982653260231018
+a1_mobilenet,noise,dataset/test/monitor/01602689.jpg,monitor,laptop,0.555151104927063
+a1_mobilenet,noise,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9929054975509644
+a1_mobilenet,noise,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9978662133216858
+a1_mobilenet,noise,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9841943383216858
+a1_mobilenet,noise,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9977391958236694
+a1_mobilenet,noise,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9988411068916321
+a1_mobilenet,noise,dataset/test/monitor/01603673.jpg,monitor,monitor,0.995477020740509
+a1_mobilenet,noise,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9764925241470337
+a1_mobilenet,noise,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9973561763763428
+a1_mobilenet,noise,dataset/test/monitor/01604317.jpg,monitor,keyboard,0.9396427273750305
+a1_mobilenet,noise,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.999359667301178
+a1_mobilenet,noise,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.993680477142334
+a1_mobilenet,noise,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9860795140266418
+a1_mobilenet,noise,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.4868183732032776
+a1_mobilenet,noise,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9522210955619812
+a1_mobilenet,noise,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9928586483001709
+a1_mobilenet,noise,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9991068243980408
+a1_mobilenet,noise,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9806950092315674
+a1_mobilenet,noise,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9839707016944885
+a1_mobilenet,noise,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9984092116355896
+a1_mobilenet,noise,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9895409941673279
+a1_mobilenet,noise,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,keyboard,0.6019688844680786
+a1_mobilenet,noise,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.8564397692680359
+a1_mobilenet,noise,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.8972036242485046
+a1_mobilenet,noise,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9236987233161926
+a1_mobilenet,noise,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9917047023773193
+a1_mobilenet,noise,dataset/test/laptop/01500207.jpg,laptop,laptop,0.998199462890625
+a1_mobilenet,noise,dataset/test/laptop/01501368.jpg,laptop,monitor,0.5122839212417603
+a1_mobilenet,noise,dataset/test/laptop/01501526.jpg,laptop,laptop,0.986078143119812
+a1_mobilenet,noise,dataset/test/laptop/01501779.jpg,laptop,monitor,0.7612778544425964
+a1_mobilenet,noise,dataset/test/laptop/01501840.jpg,laptop,laptop,0.9789224863052368
+a1_mobilenet,noise,dataset/test/laptop/01502030.jpg,laptop,laptop,0.8258259892463684
+a1_mobilenet,noise,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9986213445663452
+a1_mobilenet,noise,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.982679009437561
+a1_mobilenet,noise,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9653545618057251
+a1_mobilenet,noise,dataset/test/laptop/01503246.jpg,laptop,laptop,0.8608430027961731
+a1_mobilenet,noise,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9954001307487488
+a1_mobilenet,noise,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9978607296943665
+a1_mobilenet,noise,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.4765768349170685
+a1_mobilenet,noise,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9969205856323242
+a1_mobilenet,noise,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9994926452636719
+a1_mobilenet,noise,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9354146718978882
+a1_mobilenet,noise,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9992116689682007
+a1_mobilenet,noise,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9928004741668701
+a1_mobilenet,noise,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9988182187080383
+a1_mobilenet,noise,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9994214773178101
+a1_mobilenet,noise,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9989357590675354
+a1_mobilenet,noise,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9979267120361328
+a1_mobilenet,noise,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.9373879432678223
+a1_mobilenet,noise,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9959065914154053
+a1_mobilenet,noise,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9980968832969666
+a1_mobilenet,noise,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9759595990180969
+a1_mobilenet,noise,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9430369734764099
+a1_mobilenet,noise,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9937790036201477
+a1_mobilenet,noise,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9996150732040405
+convnext_plain,noise,dataset/test/monitor/01601559.jpg,monitor,monitor,0.8803734183311462
+convnext_plain,noise,dataset/test/monitor/01602060.jpg,monitor,monitor,0.989300012588501
+convnext_plain,noise,dataset/test/monitor/01602063.jpg,monitor,monitor,0.610176682472229
+convnext_plain,noise,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9924605488777161
+convnext_plain,noise,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9998975992202759
+convnext_plain,noise,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9759692549705505
+convnext_plain,noise,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9924463629722595
+convnext_plain,noise,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9988672733306885
+convnext_plain,noise,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9990308284759521
+convnext_plain,noise,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9997027516365051
+convnext_plain,noise,dataset/test/monitor/01603668.jpg,monitor,monitor,0.990622341632843
+convnext_plain,noise,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9849971532821655
+convnext_plain,noise,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999421834945679
+convnext_plain,noise,dataset/test/monitor/01604170.jpg,monitor,monitor,0.999679446220398
+convnext_plain,noise,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8970316052436829
+convnext_plain,noise,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9998530149459839
+convnext_plain,noise,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.997560977935791
+convnext_plain,noise,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9288944602012634
+convnext_plain,noise,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9871885180473328
+convnext_plain,noise,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9641026258468628
+convnext_plain,noise,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9906993508338928
+convnext_plain,noise,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998095631599426
+convnext_plain,noise,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.8708584308624268
+convnext_plain,noise,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.7599992752075195
+convnext_plain,noise,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9907695651054382
+convnext_plain,noise,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9985429048538208
+convnext_plain,noise,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.968887984752655
+convnext_plain,noise,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.542017936706543
+convnext_plain,noise,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9953058362007141
+convnext_plain,noise,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9901024103164673
+convnext_plain,noise,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9998898506164551
+convnext_plain,noise,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9995124340057373
+convnext_plain,noise,dataset/test/laptop/01501368.jpg,laptop,laptop,0.8927274346351624
+convnext_plain,noise,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9749920964241028
+convnext_plain,noise,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9879589080810547
+convnext_plain,noise,dataset/test/laptop/01501840.jpg,laptop,monitor,0.6193699836730957
+convnext_plain,noise,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9943099021911621
+convnext_plain,noise,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9997257590293884
+convnext_plain,noise,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9997245669364929
+convnext_plain,noise,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.996001660823822
+convnext_plain,noise,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9984526634216309
+convnext_plain,noise,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9952249526977539
+convnext_plain,noise,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9997543692588806
+convnext_plain,noise,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9899364709854126
+convnext_plain,noise,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9126062393188477
+convnext_plain,noise,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.8805928826332092
+convnext_plain,noise,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9996762275695801
+convnext_plain,noise,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9999963045120239
+convnext_plain,noise,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999430179595947
+convnext_plain,noise,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9997720122337341
+convnext_plain,noise,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9999948740005493
+convnext_plain,noise,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9933939576148987
+convnext_plain,noise,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9963323473930359
+convnext_plain,noise,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.8699469566345215
+convnext_plain,noise,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.8894936442375183
+convnext_plain,noise,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9977222084999084
+convnext_plain,noise,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9238377213478088
+convnext_plain,noise,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9909935593605042
+convnext_plain,noise,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9988895058631897
+convnext_plain,noise,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999947547912598
+convnext_robust,noise,dataset/test/monitor/01601559.jpg,monitor,monitor,0.9274604320526123
+convnext_robust,noise,dataset/test/monitor/01602060.jpg,monitor,monitor,0.99907386302948
+convnext_robust,noise,dataset/test/monitor/01602063.jpg,monitor,monitor,0.8427148461341858
+convnext_robust,noise,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9994483590126038
+convnext_robust,noise,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9999991655349731
+convnext_robust,noise,dataset/test/monitor/01602689.jpg,monitor,monitor,0.99873286485672
+convnext_robust,noise,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9984549283981323
+convnext_robust,noise,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9999529123306274
+convnext_robust,noise,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9999634027481079
+convnext_robust,noise,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9999964237213135
+convnext_robust,noise,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9995114803314209
+convnext_robust,noise,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9978663325309753
+convnext_robust,noise,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999979734420776
+convnext_robust,noise,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9999912977218628
+convnext_robust,noise,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8826125264167786
+convnext_robust,noise,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9999940395355225
+convnext_robust,noise,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9998579025268555
+convnext_robust,noise,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9782037734985352
+convnext_robust,noise,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9967041611671448
+convnext_robust,noise,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9953793287277222
+convnext_robust,noise,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9993762373924255
+convnext_robust,noise,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9999954700469971
+convnext_robust,noise,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.978833019733429
+convnext_robust,noise,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9335086941719055
+convnext_robust,noise,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9984419941902161
+convnext_robust,noise,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998371601104736
+convnext_robust,noise,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9952770471572876
+convnext_robust,noise,dataset/test/telephone/02504745 - Copy.jpg,telephone,laptop,0.5597369074821472
+convnext_robust,noise,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9993125200271606
+convnext_robust,noise,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9985600113868713
+convnext_robust,noise,dataset/test/laptop/01500058.jpg,laptop,laptop,0.999996542930603
+convnext_robust,noise,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9999867677688599
+convnext_robust,noise,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9875237941741943
+convnext_robust,noise,dataset/test/laptop/01501526.jpg,laptop,laptop,0.998528242111206
+convnext_robust,noise,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9991030693054199
+convnext_robust,noise,dataset/test/laptop/01501840.jpg,laptop,monitor,0.7258877754211426
+convnext_robust,noise,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9992270469665527
+convnext_robust,noise,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9999943971633911
+convnext_robust,noise,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9999912977218628
+convnext_robust,noise,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9998364448547363
+convnext_robust,noise,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9999825954437256
+convnext_robust,noise,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9997329115867615
+convnext_robust,noise,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9999938011169434
+convnext_robust,noise,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9994848966598511
+convnext_robust,noise,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9962002635002136
+convnext_robust,noise,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9933974742889404
+convnext_robust,noise,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.999987006187439
+convnext_robust,noise,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,1.0
+convnext_robust,noise,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9999998807907104
+convnext_robust,noise,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999959468841553
+convnext_robust,noise,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,1.0
+convnext_robust,noise,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9996151924133301
+convnext_robust,noise,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9998070597648621
+convnext_robust,noise,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.9359295964241028
+convnext_robust,noise,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9832844138145447
+convnext_robust,noise,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9999408721923828
+convnext_robust,noise,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9844459891319275
+convnext_robust,noise,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.99959796667099
+convnext_robust,noise,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9999709129333496
+convnext_robust,noise,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,1.0
+a1_mobilenet,occlusion,dataset/test/monitor/01601559.jpg,monitor,monitor,0.5822086930274963
+a1_mobilenet,occlusion,dataset/test/monitor/01602060.jpg,monitor,monitor,0.8066917657852173
+a1_mobilenet,occlusion,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9998897314071655
+a1_mobilenet,occlusion,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9990513920783997
+a1_mobilenet,occlusion,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9987528324127197
+a1_mobilenet,occlusion,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9034150242805481
+a1_mobilenet,occlusion,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9688224196434021
+a1_mobilenet,occlusion,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9996283054351807
+a1_mobilenet,occlusion,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9805616736412048
+a1_mobilenet,occlusion,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9966146349906921
+a1_mobilenet,occlusion,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9730468988418579
+a1_mobilenet,occlusion,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9408388733863831
+a1_mobilenet,occlusion,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9969130754470825
+a1_mobilenet,occlusion,dataset/test/monitor/01604170.jpg,monitor,monitor,0.997424840927124
+a1_mobilenet,occlusion,dataset/test/monitor/01604317.jpg,monitor,monitor,0.36377304792404175
+a1_mobilenet,occlusion,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9860513210296631
+a1_mobilenet,occlusion,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9691942930221558
+a1_mobilenet,occlusion,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.7875936627388
+a1_mobilenet,occlusion,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.8510212302207947
+a1_mobilenet,occlusion,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9995143413543701
+a1_mobilenet,occlusion,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9937707781791687
+a1_mobilenet,occlusion,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998457431793213
+a1_mobilenet,occlusion,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.911078155040741
+a1_mobilenet,occlusion,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9720383286476135
+a1_mobilenet,occlusion,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9365865588188171
+a1_mobilenet,occlusion,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.993877112865448
+a1_mobilenet,occlusion,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9070557951927185
+a1_mobilenet,occlusion,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9905865788459778
+a1_mobilenet,occlusion,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9692358374595642
+a1_mobilenet,occlusion,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.8518649339675903
+a1_mobilenet,occlusion,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9928209185600281
+a1_mobilenet,occlusion,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9861453771591187
+a1_mobilenet,occlusion,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9730957746505737
+a1_mobilenet,occlusion,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9878790974617004
+a1_mobilenet,occlusion,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9124939441680908
+a1_mobilenet,occlusion,dataset/test/laptop/01501840.jpg,laptop,laptop,0.7309789061546326
+a1_mobilenet,occlusion,dataset/test/laptop/01502030.jpg,laptop,laptop,0.8820428848266602
+a1_mobilenet,occlusion,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9876320362091064
+a1_mobilenet,occlusion,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9933387637138367
+a1_mobilenet,occlusion,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9785284996032715
+a1_mobilenet,occlusion,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9913073182106018
+a1_mobilenet,occlusion,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9761265516281128
+a1_mobilenet,occlusion,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9910160303115845
+a1_mobilenet,occlusion,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9848952293395996
+a1_mobilenet,occlusion,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9749523401260376
+a1_mobilenet,occlusion,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9919678568840027
+a1_mobilenet,occlusion,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9343273043632507
+a1_mobilenet,occlusion,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9990749359130859
+a1_mobilenet,occlusion,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9992490410804749
+a1_mobilenet,occlusion,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.998028576374054
+a1_mobilenet,occlusion,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9989039897918701
+a1_mobilenet,occlusion,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9990177154541016
+a1_mobilenet,occlusion,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9923099279403687
+a1_mobilenet,occlusion,dataset/test/keyboard/01402581.jpg,keyboard,telephone,0.7551487684249878
+a1_mobilenet,occlusion,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9800255298614502
+a1_mobilenet,occlusion,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9966371059417725
+a1_mobilenet,occlusion,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9344766139984131
+a1_mobilenet,occlusion,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.5571985840797424
+a1_mobilenet,occlusion,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9938456416130066
+a1_mobilenet,occlusion,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9994720816612244
+convnext_plain,occlusion,dataset/test/monitor/01601559.jpg,monitor,monitor,0.7583502531051636
+convnext_plain,occlusion,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9634881615638733
+convnext_plain,occlusion,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9592267870903015
+convnext_plain,occlusion,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9984703660011292
+convnext_plain,occlusion,dataset/test/monitor/01602655.jpg,monitor,monitor,0.9997542500495911
+convnext_plain,occlusion,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9933947920799255
+convnext_plain,occlusion,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9960901141166687
+convnext_plain,occlusion,dataset/test/monitor/01603557.jpg,monitor,monitor,0.999873161315918
+convnext_plain,occlusion,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9986510872840881
+convnext_plain,occlusion,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9998887777328491
+convnext_plain,occlusion,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9991248250007629
+convnext_plain,occlusion,dataset/test/monitor/01603673.jpg,monitor,monitor,0.989193856716156
+convnext_plain,occlusion,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9998612403869629
+convnext_plain,occlusion,dataset/test/monitor/01604170.jpg,monitor,monitor,0.9998558759689331
+convnext_plain,occlusion,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8759196400642395
+convnext_plain,occlusion,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9999074935913086
+convnext_plain,occlusion,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.99748694896698
+convnext_plain,occlusion,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9690049290657043
+convnext_plain,occlusion,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.978444516658783
+convnext_plain,occlusion,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9618724584579468
+convnext_plain,occlusion,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.997128427028656
+convnext_plain,occlusion,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998310804367065
+convnext_plain,occlusion,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9079827070236206
+convnext_plain,occlusion,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9446514844894409
+convnext_plain,occlusion,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9901148080825806
+convnext_plain,occlusion,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9988297820091248
+convnext_plain,occlusion,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9927036762237549
+convnext_plain,occlusion,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9804291725158691
+convnext_plain,occlusion,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9964054822921753
+convnext_plain,occlusion,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9826411604881287
+convnext_plain,occlusion,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9999454021453857
+convnext_plain,occlusion,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9994800686836243
+convnext_plain,occlusion,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9877553582191467
+convnext_plain,occlusion,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9892326593399048
+convnext_plain,occlusion,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9792289733886719
+convnext_plain,occlusion,dataset/test/laptop/01501840.jpg,laptop,laptop,0.6465356349945068
+convnext_plain,occlusion,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9780095815658569
+convnext_plain,occlusion,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9991828799247742
+convnext_plain,occlusion,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9999746084213257
+convnext_plain,occlusion,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9995132684707642
+convnext_plain,occlusion,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9763909578323364
+convnext_plain,occlusion,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9992528557777405
+convnext_plain,occlusion,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9994655251502991
+convnext_plain,occlusion,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9984355568885803
+convnext_plain,occlusion,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.8060417771339417
+convnext_plain,occlusion,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9983810186386108
+convnext_plain,occlusion,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9996738433837891
+convnext_plain,occlusion,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9999382495880127
+convnext_plain,occlusion,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.9998136162757874
+convnext_plain,occlusion,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999467134475708
+convnext_plain,occlusion,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,0.9999874830245972
+convnext_plain,occlusion,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9902135729789734
+convnext_plain,occlusion,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9994895458221436
+convnext_plain,occlusion,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.8684490323066711
+convnext_plain,occlusion,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9725466966629028
+convnext_plain,occlusion,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9970254302024841
+convnext_plain,occlusion,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.8850378394126892
+convnext_plain,occlusion,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9818743467330933
+convnext_plain,occlusion,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9998714923858643
+convnext_plain,occlusion,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,0.9999916553497314
+convnext_robust,occlusion,dataset/test/monitor/01601559.jpg,monitor,monitor,0.7694569826126099
+convnext_robust,occlusion,dataset/test/monitor/01602060.jpg,monitor,monitor,0.9772824048995972
+convnext_robust,occlusion,dataset/test/monitor/01602063.jpg,monitor,monitor,0.9959847927093506
+convnext_robust,occlusion,dataset/test/monitor/01602084.jpg,monitor,monitor,0.9999245405197144
+convnext_robust,occlusion,dataset/test/monitor/01602655.jpg,monitor,monitor,0.999991774559021
+convnext_robust,occlusion,dataset/test/monitor/01602689.jpg,monitor,monitor,0.9992326498031616
+convnext_robust,occlusion,dataset/test/monitor/01603019.jpg,monitor,monitor,0.9992855191230774
+convnext_robust,occlusion,dataset/test/monitor/01603557.jpg,monitor,monitor,0.9999978542327881
+convnext_robust,occlusion,dataset/test/monitor/01603605.jpg,monitor,monitor,0.9999169111251831
+convnext_robust,occlusion,dataset/test/monitor/01603634.jpg,monitor,monitor,0.9999988079071045
+convnext_robust,occlusion,dataset/test/monitor/01603668.jpg,monitor,monitor,0.9999690055847168
+convnext_robust,occlusion,dataset/test/monitor/01603673.jpg,monitor,monitor,0.9976540207862854
+convnext_robust,occlusion,dataset/test/monitor/01604156.jpg,monitor,monitor,0.9999967813491821
+convnext_robust,occlusion,dataset/test/monitor/01604170.jpg,monitor,monitor,0.999996542930603
+convnext_robust,occlusion,dataset/test/monitor/01604317.jpg,monitor,monitor,0.8990208506584167
+convnext_robust,occlusion,dataset/test/telephone/02500082 - Copy - Copy.jpg,telephone,telephone,0.9999967813491821
+convnext_robust,occlusion,dataset/test/telephone/02500277 - Copy - Copy.jpg,telephone,telephone,0.9997398257255554
+convnext_robust,occlusion,dataset/test/telephone/02500287 - Copy - Copy.jpg,telephone,telephone,0.9920225143432617
+convnext_robust,occlusion,dataset/test/telephone/025005066 - Copy - Copy.jpg,telephone,telephone,0.9938987493515015
+convnext_robust,occlusion,dataset/test/telephone/025005336 - Copy - Copy.jpg,telephone,telephone,0.9933444261550903
+convnext_robust,occlusion,dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg,telephone,telephone,0.9997674822807312
+convnext_robust,occlusion,dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg,telephone,telephone,0.9999946355819702
+convnext_robust,occlusion,dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg,telephone,telephone,0.9676369428634644
+convnext_robust,occlusion,dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg,telephone,telephone,0.9857432246208191
+convnext_robust,occlusion,dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg,telephone,telephone,0.9974645376205444
+convnext_robust,occlusion,dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg,telephone,telephone,0.9998525381088257
+convnext_robust,occlusion,dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg,telephone,telephone,0.9990614056587219
+convnext_robust,occlusion,dataset/test/telephone/02504745 - Copy.jpg,telephone,telephone,0.9928629994392395
+convnext_robust,occlusion,dataset/test/telephone/02504782 - Copy.jpg,telephone,telephone,0.9993983507156372
+convnext_robust,occlusion,dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg,telephone,telephone,0.9961697459220886
+convnext_robust,occlusion,dataset/test/laptop/01500058.jpg,laptop,laptop,0.9999983310699463
+convnext_robust,occlusion,dataset/test/laptop/01500207.jpg,laptop,laptop,0.9999833106994629
+convnext_robust,occlusion,dataset/test/laptop/01501368.jpg,laptop,laptop,0.9991583824157715
+convnext_robust,occlusion,dataset/test/laptop/01501526.jpg,laptop,laptop,0.9995535016059875
+convnext_robust,occlusion,dataset/test/laptop/01501779.jpg,laptop,laptop,0.9986417889595032
+convnext_robust,occlusion,dataset/test/laptop/01501840.jpg,laptop,laptop,0.6890058517456055
+convnext_robust,occlusion,dataset/test/laptop/01502030.jpg,laptop,laptop,0.9943296313285828
+convnext_robust,occlusion,dataset/test/laptop/01502195 - Copy.jpg,laptop,laptop,0.9999611377716064
+convnext_robust,occlusion,dataset/test/laptop/01503039 - Copy.jpg,laptop,laptop,0.9999995231628418
+convnext_robust,occlusion,dataset/test/laptop/01503168 - Copy.jpg,laptop,laptop,0.9999699592590332
+convnext_robust,occlusion,dataset/test/laptop/01503246.jpg,laptop,laptop,0.9990315437316895
+convnext_robust,occlusion,dataset/test/laptop/01503433.jpg,laptop,laptop,0.9999608993530273
+convnext_robust,occlusion,dataset/test/laptop/01503447.jpg,laptop,laptop,0.9999556541442871
+convnext_robust,occlusion,dataset/test/laptop/01503585 - Copy.jpg,laptop,laptop,0.9999209642410278
+convnext_robust,occlusion,dataset/test/laptop/01503675 - Copy.jpg,laptop,laptop,0.9387773871421814
+convnext_robust,occlusion,dataset/test/keyboard/01400275.jpg,keyboard,keyboard,0.9999552965164185
+convnext_robust,occlusion,dataset/test/keyboard/01400992.jpg,keyboard,keyboard,0.9999884366989136
+convnext_robust,occlusion,dataset/test/keyboard/01401557.jpg,keyboard,keyboard,0.9999995231628418
+convnext_robust,occlusion,dataset/test/keyboard/01401571.jpg,keyboard,keyboard,0.999998927116394
+convnext_robust,occlusion,dataset/test/keyboard/01401607.jpg,keyboard,keyboard,0.9999992847442627
+convnext_robust,occlusion,dataset/test/keyboard/01402130.jpg,keyboard,keyboard,1.0
+convnext_robust,occlusion,dataset/test/keyboard/01402212.jpg,keyboard,keyboard,0.9985478520393372
+convnext_robust,occlusion,dataset/test/keyboard/01402467.jpg,keyboard,keyboard,0.9999852180480957
+convnext_robust,occlusion,dataset/test/keyboard/01402581.jpg,keyboard,keyboard,0.9192003607749939
+convnext_robust,occlusion,dataset/test/keyboard/01402727.jpg,keyboard,keyboard,0.9953235983848572
+convnext_robust,occlusion,dataset/test/keyboard/01402772.jpg,keyboard,keyboard,0.9998070597648621
+convnext_robust,occlusion,dataset/test/keyboard/01402773.jpg,keyboard,keyboard,0.9711219668388367
+convnext_robust,occlusion,dataset/test/keyboard/01402795.jpg,keyboard,keyboard,0.9986321330070496
+convnext_robust,occlusion,dataset/test/keyboard/01402888 - Copy.jpg,keyboard,keyboard,0.9999980926513672
+convnext_robust,occlusion,dataset/test/keyboard/01402930 - Copy.jpg,keyboard,keyboard,1.0

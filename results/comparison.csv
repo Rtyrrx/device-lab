@@ -1,0 +1,16 @@
+model,condition,accuracy,macro_f1,correct,n
+a1_mobilenet,clean,1.0,1.0,60,60
+a1_mobilenet,dim,0.9833333333333333,0.9833147942157954,59,60
+a1_mobilenet,blur,0.9666666666666667,0.9666666666666668,58,60
+a1_mobilenet,noise,0.9166666666666666,0.9165589080459771,55,60
+a1_mobilenet,occlusion,0.9833333333333333,0.9833147942157954,59,60
+convnext_plain,clean,1.0,1.0,60,60
+convnext_plain,dim,1.0,1.0,60,60
+convnext_plain,blur,0.9166666666666666,0.9175231011945009,55,60
+convnext_plain,noise,0.9833333333333333,0.9833147942157954,59,60
+convnext_plain,occlusion,1.0,1.0,60,60
+convnext_robust,clean,1.0,1.0,60,60
+convnext_robust,dim,1.0,1.0,60,60
+convnext_robust,blur,0.9,0.8990297059262577,54,60
+convnext_robust,noise,0.9666666666666667,0.9666481275491288,58,60
+convnext_robust,occlusion,1.0,1.0,60,60

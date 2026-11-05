@@ -1,0 +1,2402 @@
+[
+  {
+    "file": "dataset/test/keyboard/01400275.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "0a85a745bcb9e155d338c8b7b0c62873bd37e431585da9b892bb24ca4c9f4231"
+  },
+  {
+    "file": "dataset/test/keyboard/01400992.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "05598070b4ec3271a5acdf3d6ee2aacfc1b765855b35e4e7d0afbef7a9a35ceb"
+  },
+  {
+    "file": "dataset/test/keyboard/01401557.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "4743cd520249e766710008612df2bb2a9eff43f5da08df061213e0f4435e0ac5"
+  },
+  {
+    "file": "dataset/test/keyboard/01401571.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "ecaf3e8f2887118af9b53b9cb523168d709c1371958e9c627a76b7c31a8d0960"
+  },
+  {
+    "file": "dataset/test/keyboard/01401607.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "d2f9605dfccf9fd7b4d3e7dd058e10223686aa520acd01daee933a90319c7846"
+  },
+  {
+    "file": "dataset/test/keyboard/01402130.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "52f330dcc3ea9f7ab578909f7870e21569b3e9151e97b2bd2b3d09ce274304f8"
+  },
+  {
+    "file": "dataset/test/keyboard/01402212.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "c05910cecd8ff9df7ac46e135bc1800fdc30da3896dde6e6070c233bc04a1954"
+  },
+  {
+    "file": "dataset/test/keyboard/01402467.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "2bd968e33101e768a5c1e50543c9359ec967594b3fb366bc8f0dbfce3fbbf1e1"
+  },
+  {
+    "file": "dataset/test/keyboard/01402581.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "f6f6e186cce8c9cbc702e8c13082f085652680061da3f257c5c0db7cb3d05245"
+  },
+  {
+    "file": "dataset/test/keyboard/01402727.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "54554244cf7fe0aa5f3dc92dc1c13d314b093f82f487b421b01262d636c306cf"
+  },
+  {
+    "file": "dataset/test/keyboard/01402772.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "cc13a2a6677aef7257e03b2e15db049651c787bb4aa0624e221631365cb83c86"
+  },
+  {
+    "file": "dataset/test/keyboard/01402773.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "001d7c1d361a7ac425ba3d1c0979d04e9fa199a3a214d8d2bdbfb6f67c700915"
+  },
+  {
+    "file": "dataset/test/keyboard/01402795.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "218e3977c8116b320b138dfa849df97d37ce67f271ec995d4a14a001cce515d7"
+  },
+  {
+    "file": "dataset/test/keyboard/01402888 - Copy.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "745a38510e3790890fac6845ccd933163a129aeab35e9add2e0e3a43581db47e"
+  },
+  {
+    "file": "dataset/test/keyboard/01402930 - Copy.jpg",
+    "split": "test",
+    "class": "keyboard",
+    "sha256": "aa9be0e06f752bbdae44147fa00fcf7f5bcfd8f723bccfb19ae6f78fa8f01304"
+  },
+  {
+    "file": "dataset/test/laptop/01500058.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "e9665c474a9e9a5581b2669dffd1a3c8e3a373022777fea36b960f2cd8519ca6"
+  },
+  {
+    "file": "dataset/test/laptop/01500207.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "d3976b3b17213097345ecc9ef1986a3ac834192d0e21bb5e2255e2bd8b9eb908"
+  },
+  {
+    "file": "dataset/test/laptop/01501368.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "3543a99d4be8712474e75583574e52901e22e3ee8dc27601fc01003c015d901c"
+  },
+  {
+    "file": "dataset/test/laptop/01501526.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "ec9ca51e4a701df063e7d26d907d9e53c221d7e6f6851bd85007cecce17bf466"
+  },
+  {
+    "file": "dataset/test/laptop/01501779.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "2fc47cc2e095b5ae0f3cdff425caab74e977cbbd168d6e71d34c5a58329374e3"
+  },
+  {
+    "file": "dataset/test/laptop/01501840.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "2f87658bcdbdd8ad2259227642b3c5499e7643d1b8c85ff1184ad259deaa04ff"
+  },
+  {
+    "file": "dataset/test/laptop/01502030.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "7f141e7809893e2aa499224aea2a607e21858bbb8c10eeb7805451f0110f24b5"
+  },
+  {
+    "file": "dataset/test/laptop/01502195 - Copy.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "b1102be689ca830d3171bc2130ceade94f1189e8ee56e2a4d306384dd51d988d"
+  },
+  {
+    "file": "dataset/test/laptop/01503039 - Copy.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "52534d9ef175b97a9bb6f567d52276194f412844952f7636834f987c8d9ca9b8"
+  },
+  {
+    "file": "dataset/test/laptop/01503168 - Copy.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "2eca6f85bf71ee954e1cdca2dd3ca60af0be84b0d7d31c06286c2b931b6cceb0"
+  },
+  {
+    "file": "dataset/test/laptop/01503246.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "865a3ccb3fb95f67ec98fa89178b5dd83af4034cd373566b0bfc373562802e59"
+  },
+  {
+    "file": "dataset/test/laptop/01503433.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "c87c538b640f43d85d303234bc0406f8ac27495ae63c844368a196efd4cbc997"
+  },
+  {
+    "file": "dataset/test/laptop/01503447.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "748cd227cc16f64586f169c9639189455ea7c3a8bc7db5f46d92b55b3e552fe3"
+  },
+  {
+    "file": "dataset/test/laptop/01503585 - Copy.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "ae3c940200947ddad7b546e316de19ffe9ccae36ed42266e0df63994cfacdaa8"
+  },
+  {
+    "file": "dataset/test/laptop/01503675 - Copy.jpg",
+    "split": "test",
+    "class": "laptop",
+    "sha256": "b9e070c9b4ee001fbe2496bbbd8bf6520d434ece656d4bfcb61ccd3ab1114125"
+  },
+  {
+    "file": "dataset/test/monitor/01601559.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "ac2b284f1b44e40b09974b055b1cef143d5859200ddf13d205846240214f1b35"
+  },
+  {
+    "file": "dataset/test/monitor/01602060.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "0696ac0a8c0862f05a0cf43b9a16606d8ed53d368f8a0f2ed65a64bce4597b6d"
+  },
+  {
+    "file": "dataset/test/monitor/01602063.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "76e1e60ba25780ac27ab61adb7f3da28e0839c1b53d264f1fbe3555e10d73e44"
+  },
+  {
+    "file": "dataset/test/monitor/01602084.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "851b972a0a6d35398cc50388dc3b92ee55afc2eb727b2f317a8630d4f72537e9"
+  },
+  {
+    "file": "dataset/test/monitor/01602655.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "870f418aea342db2e7e5866bc4e0971074c591081ae506e48ef573da95c3f795"
+  },
+  {
+    "file": "dataset/test/monitor/01602689.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "dd6ebc598ff55aeacf70160e2a60b709a642f2bb9b8d07f3447a1a2031742c44"
+  },
+  {
+    "file": "dataset/test/monitor/01603019.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "41da484203ea4f13a8b469d09220870e6df14e21e38c0eba0a0b8271e921b901"
+  },
+  {
+    "file": "dataset/test/monitor/01603557.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "f75f85a08f07010bc5ed485e9dd2f90e26ebc293a087671498840d453de0f37f"
+  },
+  {
+    "file": "dataset/test/monitor/01603605.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "1175aba88aa0d9c386b6b201ea2f9bcbb5375247c89ab6842de68b7cb07ae394"
+  },
+  {
+    "file": "dataset/test/monitor/01603634.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "775e2e19bf627565bb57e179006921af00819b9444a3cba0f13f3e82d1116945"
+  },
+  {
+    "file": "dataset/test/monitor/01603668.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "b866988adcbf089e6293fe3e8d76e4028136663c3ebaae68edc2e565e0e20c83"
+  },
+  {
+    "file": "dataset/test/monitor/01603673.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "f4a4976019c50a5535ad4ad24e7923bdd8f97da853ebf8299d6b14d71b610e48"
+  },
+  {
+    "file": "dataset/test/monitor/01604156.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "656f3adffa707316c471a711cb3e0475f7847bfd9f42232448764fcdc528a759"
+  },
+  {
+    "file": "dataset/test/monitor/01604170.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "4d4208bcd265cb59e2ff73a040a9f288e9bdcca1e90c1852ef67f33548893aa8"
+  },
+  {
+    "file": "dataset/test/monitor/01604317.jpg",
+    "split": "test",
+    "class": "monitor",
+    "sha256": "59e58eed877ffaa822151064a7442a0f27cc80c7ccf3cec7a9b83c06e0fd5483"
+  },
+  {
+    "file": "dataset/test/telephone/02500082 - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "f57ab98347abcf50ce4baf50d4c3513238f2a57a90bc0e6f9d2d74cd03bb27cd"
+  },
+  {
+    "file": "dataset/test/telephone/02500277 - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "12a9a8e6cfd3fed56e7fcc5f754ca3c2c60199154168b602c8da90007a9d50c3"
+  },
+  {
+    "file": "dataset/test/telephone/02500287 - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "f0ae17acfbe9b67a1c902c6a73d234760c5662c1bb2e59968226eb9240c9b92c"
+  },
+  {
+    "file": "dataset/test/telephone/025005066 - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "1330a42336e59b6b0caa28239ad5c3df0a4e53430ce9307bb6beed2fa6d225a6"
+  },
+  {
+    "file": "dataset/test/telephone/025005336 - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "733995678e02ae355f911ce6a0ec81f509947675c3f360583e9211eb0b55c06b"
+  },
+  {
+    "file": "dataset/test/telephone/02501704 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "fecb4986d28b147424a82b3dfef8571850fff47c3f990e347e0e686719de0a5c"
+  },
+  {
+    "file": "dataset/test/telephone/02503140 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "d46d18652a2d8b54de93851eb182c028dc00916d2aff9ead7504df789bc3ce7e"
+  },
+  {
+    "file": "dataset/test/telephone/02503168 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "db68f86f7c19d31fd9e44a94c553383f12258f5492af678fe4846027377592f2"
+  },
+  {
+    "file": "dataset/test/telephone/02503429 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "41ee37d60a7a4780299f7d114c1e71ac533e6f2bf1e56c67e1e6192112ef1beb"
+  },
+  {
+    "file": "dataset/test/telephone/02503726 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "f908531c362196f5accf02d86661695e65995fb306d23a89e9e01bcb697cb240"
+  },
+  {
+    "file": "dataset/test/telephone/02503865 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "b26e9425b3dba35a1240d28f8419e419d314bc4844911b5afe36f30d9f266502"
+  },
+  {
+    "file": "dataset/test/telephone/02504712 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "fb920d63569efa5636fc769ae3948bbd1ee49d12abbfaace411536c88ec04aa1"
+  },
+  {
+    "file": "dataset/test/telephone/02504745 - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "8121ac1049d9df8522ba5b3760a4ef8a6c57999873b119af945b24ca8345de00"
+  },
+  {
+    "file": "dataset/test/telephone/02504782 - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "b32461111358cb529761d1a9c572ea7a68bc753517d37fdca34683cf5f7962cd"
+  },
+  {
+    "file": "dataset/test/telephone/02504810 - Copy - Copy - Copy.jpg",
+    "split": "test",
+    "class": "telephone",
+    "sha256": "a3f98c2e14827cf6059bca65e7587206785d505ce2cbbd05de36c32e1a8b09d2"
+  },
+  {
+    "file": "dataset/train/keyboard/01400106.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "aed3f162309e89ca77168dbc6c32379ed5e4ec93122bfa42cec2a87b0ebab1e3"
+  },
+  {
+    "file": "dataset/train/keyboard/01400112.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "15ab2a94e3030e851c0eb448be57a8183ab595e2d8e6145b3f96987d1addecaa"
+  },
+  {
+    "file": "dataset/train/keyboard/01400124.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "68720ce0840c89c3469bfc9c543da515865ae025377938887b8c7dde43dcccae"
+  },
+  {
+    "file": "dataset/train/keyboard/01400227.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "d8b13f031775a51fb060914073902b12d44b631dece09728a96172457c8b804e"
+  },
+  {
+    "file": "dataset/train/keyboard/01400229.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "b4dc2422dc13986f83e4b2bd6e13a2f7ab28eba8d87fc154a928d19bf77e0f13"
+  },
+  {
+    "file": "dataset/train/keyboard/01400468.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "f1ab1efb1c46f8b520130139ae10c26a81a82acdecbf175ff767358f10611223"
+  },
+  {
+    "file": "dataset/train/keyboard/01400716.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "1d249e36bcb442d619345019d7587e93315fcbb23612e0ae20c034e3241addb5"
+  },
+  {
+    "file": "dataset/train/keyboard/01400796.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "275e7daf7cdff3188535e48a0e7e9bebd3c83bd112fcef007eda6c8a13b061d4"
+  },
+  {
+    "file": "dataset/train/keyboard/01400838.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "a846bbd851ad26e8e81fa06b0d429a4676f2a51112517b1be30743085c0a8de3"
+  },
+  {
+    "file": "dataset/train/keyboard/01400990.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "3c5ef56398cf236473ac6fae2faaf6b9bf3010741e50d68e1c181bf38249d7d1"
+  },
+  {
+    "file": "dataset/train/keyboard/01401051.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "93770d57ccb4f68e62098de8f5a97a6b21c953d0f8e5ffb60f6b7e77a335a320"
+  },
+  {
+    "file": "dataset/train/keyboard/01401075.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "23c911c542a0d21ca23d87a071f621ff5847af3dd8ed0a9d91af7a5cff9e3481"
+  },
+  {
+    "file": "dataset/train/keyboard/01401153.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "9a1cd1d4fe06bd5141d3ac64e7e70fa5a0808fed87fd34a8167be19251013068"
+  },
+  {
+    "file": "dataset/train/keyboard/01401228.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "03f55ef0aff575ff8774c5607fb7827bf54cb34617b6ede887cdb1163e8c0b56"
+  },
+  {
+    "file": "dataset/train/keyboard/01401342.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "c92409b7a46456960a31b324c8d544cb20f5d01fb04aea959fa57d4ec5c4470e"
+  },
+  {
+    "file": "dataset/train/keyboard/01401362.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "ba5964865f66ff9e8ec55be20596cbbbc8103b6ffd8cb64b32374827e154cd75"
+  },
+  {
+    "file": "dataset/train/keyboard/01401469.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "5bacfe01521ed12e7d298e900cc83670c5c6f1ec576efa09edb5fb9a3caf7dcc"
+  },
+  {
+    "file": "dataset/train/keyboard/01401492.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "fe0a17d5481aa2c6402f01dce712de94fe003db6310074bfadb7b3906d98de39"
+  },
+  {
+    "file": "dataset/train/keyboard/01401497.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "0e9a92079f11f32cfed3389006c777013c7078e9d2e4f5865dc9ca52ce2d618c"
+  },
+  {
+    "file": "dataset/train/keyboard/01401517.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "0b00556e9d988566c82108f613fa239c1a5e277ca7e6092588c01125fbb02ba0"
+  },
+  {
+    "file": "dataset/train/keyboard/01401522.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "288c0052991830ea9f7c3b9485118ba1d3ea3a922c5769d70b8f1f3efae1f21d"
+  },
+  {
+    "file": "dataset/train/keyboard/01401536.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "06a912e5c564d49712e2b0e95c4d6aa1b349f3fcf710505caae48aba437e72eb"
+  },
+  {
+    "file": "dataset/train/keyboard/01401601.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "5d570729591f7fb3b5834464da1f024845490f4f963e0ed8d3e6eef0b700577b"
+  },
+  {
+    "file": "dataset/train/keyboard/01401644.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "80968bacd7efd2843402ed8750682c6849b4cad8f56389d8419a0de440477d21"
+  },
+  {
+    "file": "dataset/train/keyboard/01401654.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "f6b2ff39e3757eecf5ab1fef0d53d062dce206d71564d5fbc8afdc2cbd7dd381"
+  },
+  {
+    "file": "dataset/train/keyboard/01401679.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "5ac9ef0e0a28f29f1f66d6e4c158f65c67f039a9bc454b7d98c3d35582785280"
+  },
+  {
+    "file": "dataset/train/keyboard/01401680.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "37a0a9c0712c47d2514c6baddc1b4d6686a95c23cca396633f1569e7978625a4"
+  },
+  {
+    "file": "dataset/train/keyboard/01401696.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "413b93eeb5426760971ddec8adfbb46404cbef87c5f265ea4dc855886b13a24f"
+  },
+  {
+    "file": "dataset/train/keyboard/01401776.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "eaba6bb7bccec45492cc9f2f649f7c981b8bcec1f8dea27a0d96d73d7b97499c"
+  },
+  {
+    "file": "dataset/train/keyboard/01401796.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "21e34cedcbdaa8be8a822db25105d44075033fe115e40e58a3fa3779e1e5adc8"
+  },
+  {
+    "file": "dataset/train/keyboard/01401800.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "5deddfc3e70d579b32e7bece1bb2fd769f41c7f497afa545114b561d14c54d8f"
+  },
+  {
+    "file": "dataset/train/keyboard/01401805.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "6a4ab1c8176690f1b41c032f5e2646792f50fb52d7e258713d7ed9e41e2005d8"
+  },
+  {
+    "file": "dataset/train/keyboard/01401806.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "414fc16479a5c55760dbbcccaf3e7b79365c7c1218353ec93a583945d9ab2180"
+  },
+  {
+    "file": "dataset/train/keyboard/01401832.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "a0e5d1311e0681241d47cbeda713400227c943d589a7fea2820c512d2be09152"
+  },
+  {
+    "file": "dataset/train/keyboard/01401833.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "ab36c6566e8afe480be3866acc2fdf85ec2e988908262d45aa308b1819751d43"
+  },
+  {
+    "file": "dataset/train/keyboard/01401860.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "e67ffb48bb20c81ed617074c1e9ef71ae7b8a2a75924e05171c22b297cb73738"
+  },
+  {
+    "file": "dataset/train/keyboard/01402109.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "1f1b39bcdbce1bd848652217df0ec21d892b453c7b7488be5f9d9bc3495ad5a6"
+  },
+  {
+    "file": "dataset/train/keyboard/01402122.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "9e3e55f5a5cb6c1664d033432786af168c5230cfd68000d29cda449efde82f99"
+  },
+  {
+    "file": "dataset/train/keyboard/01402124.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "1a2c5329f69882880e8c8c85e362ca758d1fe432aafb00c7c29bfe3bb2374409"
+  },
+  {
+    "file": "dataset/train/keyboard/01402211.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "cba26f12eef39eba9d26ba9b377f15d91d9f6a9c77fd12f49b282b5f939118bb"
+  },
+  {
+    "file": "dataset/train/keyboard/01402218.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "f6e013f2b68334eddecad49d77ff23e30492ecb6e408c3fc2fe2297bedcf2010"
+  },
+  {
+    "file": "dataset/train/keyboard/01402252.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "ef3f8ce9b638a3f6f291bbe25907100f822f12345cd2e7fc8d6b37e2c85114a9"
+  },
+  {
+    "file": "dataset/train/keyboard/01402256.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "9f411673e089ebdfed900a665316fa2f3779aff4ff44955516d55200ee266d7e"
+  },
+  {
+    "file": "dataset/train/keyboard/01402282.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "845c6535f566fec29f6ed644509e747a3f15d7ffba2e0c4a8e47df4a4a7ba2ec"
+  },
+  {
+    "file": "dataset/train/keyboard/01402283.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "2c99be1c0039a1a7f6837cee59e16dfcc610590c360a10084f953b575a0590ac"
+  },
+  {
+    "file": "dataset/train/keyboard/01402286.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "adb8d80586a78c26f232e25f5c9d99bb145598e0a0332cb4eeeb91d6db280362"
+  },
+  {
+    "file": "dataset/train/keyboard/01402358.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "14b77c1243ab5dc2f493a2f0af683ec17b8d47e20cfbb1b93f3b4b4b47a1768b"
+  },
+  {
+    "file": "dataset/train/keyboard/01402413.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "1015da3bdc51a65649b93c8bb82e9c994159d58788199d69407b524970171624"
+  },
+  {
+    "file": "dataset/train/keyboard/01402439.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "e87540c4e48ce2dcd2a75cf50fe88f3a7d9941f1e6f143b7194731266940952b"
+  },
+  {
+    "file": "dataset/train/keyboard/01402491.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "56450c057e0ea0ddf0e5f9374c68187ef6a8e002bf983578a088b73439607926"
+  },
+  {
+    "file": "dataset/train/keyboard/01402499.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "d57285482df0d7dc5ba2324c4acfdd1cbc06f1a91411db5e453517f064366ce6"
+  },
+  {
+    "file": "dataset/train/keyboard/01402522.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "9b96d80aaaec70b633df3e14c4fcc00bece24cf9ade7b7807687bc5897f1160c"
+  },
+  {
+    "file": "dataset/train/keyboard/01402548.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "66336a6072d8da0c7ab2c7c80e070d50eb77d6232c2ae0fa04ab7e90da252cf7"
+  },
+  {
+    "file": "dataset/train/keyboard/01402582.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "a1d20cc2c4da9f55651689360f4656516b79e6f2e7c4924cb109a683e6b089d6"
+  },
+  {
+    "file": "dataset/train/keyboard/01402678 - Copy.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "a99040571a4466ba8a5630a5b99e82abbab26e4c144e8af4e7e28817c4960129"
+  },
+  {
+    "file": "dataset/train/keyboard/01402700 - Copy.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "0835879609b361c1051c62b5ceeb1778905c543854865c288004fbd0512eb8b5"
+  },
+  {
+    "file": "dataset/train/keyboard/01402712 - Copy.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "be2d924e44030cf870e8cf71ed6d9e1ca996fd6cb1deeb7967105845bca3cc01"
+  },
+  {
+    "file": "dataset/train/keyboard/01402715.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "05bfcf279cb99f7a3edb43394655c655d66069f8531fc875ffe7ee5a9e86f3d2"
+  },
+  {
+    "file": "dataset/train/keyboard/01402753.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "a9c3bac47314cba07a51cd60c4347fdcf16e5b751453dd77cc23074cc4b800b0"
+  },
+  {
+    "file": "dataset/train/keyboard/01402758.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "eefa33ee7dace76281f7c08223cc7719b744fe2119dff13ab61422d1b00df599"
+  },
+  {
+    "file": "dataset/train/keyboard/01402766.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "7722f1af7047def05f53424894d18fe3b708ec490b910884729f2112b59ddf99"
+  },
+  {
+    "file": "dataset/train/keyboard/01402767.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "a46b23293eedc365bf6f17831faf46824327ca222f1904cc3fc56548a1f134d7"
+  },
+  {
+    "file": "dataset/train/keyboard/01402791.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "e42b32b39a5808ee4b83149fda5e5d1b7969f1ae78ba205e8845d9d509125824"
+  },
+  {
+    "file": "dataset/train/keyboard/01402802.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "04e4a48face552d74aede8df176f0b71b273a657b88a5d9c23b07abcfde179d1"
+  },
+  {
+    "file": "dataset/train/keyboard/01402806.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "4b0cdc0792a7d879644562280364f9d1f84c240fc6395c38a79f388d4f32acf5"
+  },
+  {
+    "file": "dataset/train/keyboard/01402814.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "9002d2f21b4d65c75d693ecfa037554ffa0eac0e34b8925957cbad778da4d832"
+  },
+  {
+    "file": "dataset/train/keyboard/01402815.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "70b2d2f7130c0d9f01944fdc183a38bdf73460a45463c57f443916f1f5120bce"
+  },
+  {
+    "file": "dataset/train/keyboard/01402817.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "931ad6b4ce4506b5a03fc75e7a2dfa804c8fbc4bd0b541685adf56e6bcc0520a"
+  },
+  {
+    "file": "dataset/train/keyboard/01402874 - Copy.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "547ef23077ec9cff6fa82ac2ae7ff4840d2122330fdc20ab7d77825845f37622"
+  },
+  {
+    "file": "dataset/train/keyboard/01402883 - Copy.jpg",
+    "split": "train",
+    "class": "keyboard",
+    "sha256": "771f732a7b7509c0feb1bca7ad550c85008902a387199ab1f0df032e73147fbc"
+  },
+  {
+    "file": "dataset/train/laptop/01500032.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "0dda982b8eeca3f093baef38c19f499d805d0822d1f8534190633c242d0e4c2a"
+  },
+  {
+    "file": "dataset/train/laptop/01500051.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "e25aac6466cf4ea55624e5810160b1d72262da82d79dc58bf212eac1ecfe11ac"
+  },
+  {
+    "file": "dataset/train/laptop/01500076.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "a0e45b17dd8123eb2a9111fc2b7e0974f5c30b365f219c5d47ff716077198cad"
+  },
+  {
+    "file": "dataset/train/laptop/01500206.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "4c231a77bcef0bab634144bd26efa4c04fbf94d81614c6391610f4695372f46a"
+  },
+  {
+    "file": "dataset/train/laptop/01501370.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "e15cc0d11ae9a22b2c91e54b4f7d46474e3b3963f102cfa3f929db4d597a4088"
+  },
+  {
+    "file": "dataset/train/laptop/01501371.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "8282de1bbed3eab42f0d249cb66cc2dacae9bba44946cf8ca32222b04833348b"
+  },
+  {
+    "file": "dataset/train/laptop/01501390.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "1a2839cf12a82e2b20f9d48fe269e1f3b708979d84fac7238aef33a05f24ac2a"
+  },
+  {
+    "file": "dataset/train/laptop/01501451.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "5fa0c5c017bc94118c783f4b55285267706d9d0bf008f945bc478bec9f2eb0fd"
+  },
+  {
+    "file": "dataset/train/laptop/01501466.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "dcb4e8b30f1b7c490f68521a8c1de81939031a1e6bc6b90c0bea36dca83ec7cb"
+  },
+  {
+    "file": "dataset/train/laptop/01501588.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "b613490548c82abf901a5ec84ee4b992c6397c86e312808c6cf31aa71875ea35"
+  },
+  {
+    "file": "dataset/train/laptop/01501632.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "ca018a337a7f4ee7bb769e148f5eeb9f0cf800813fb542c0db4901ee8cd5411a"
+  },
+  {
+    "file": "dataset/train/laptop/01501667.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "9c159376b040602850b857d297fdd122c83993b0756b326b48df0613b3719532"
+  },
+  {
+    "file": "dataset/train/laptop/01501671.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "325aeb57d4ef7200f65e058c1f06295ffd53a0522af3da2b0653267bbcaf451d"
+  },
+  {
+    "file": "dataset/train/laptop/01501672.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "e270607f20e0f5820af1465dd6fac1c66800ebd732fa0cdde972232793a1b3cd"
+  },
+  {
+    "file": "dataset/train/laptop/01501673.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "4cfe2f4f0ac25c45f710861c97a6960783c002a0b3afcf16edc0b69524f983f8"
+  },
+  {
+    "file": "dataset/train/laptop/01501674.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "ef366d1dce14315591dfa0a76122722b64501509f17bf43fb41c1329b9f08929"
+  },
+  {
+    "file": "dataset/train/laptop/01501712.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "e32594c127356148abdf9f08ecfe764a43b262491701b437dc1e3a53cfdeab05"
+  },
+  {
+    "file": "dataset/train/laptop/01501713.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "e24aa5f2c9c7ae320d29caef7deb21049310bcf28fbaf21c402b0a81cc0f3f01"
+  },
+  {
+    "file": "dataset/train/laptop/01501747.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "885a36f534d184e752858818be4348e7e7f69c1e4ba3148b6409a7d3e5f6fc69"
+  },
+  {
+    "file": "dataset/train/laptop/01502012.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "6c8ff309ff8d63ac3c311536336a81c18eb4d09a3ddc312e4d70eb08783ecfd4"
+  },
+  {
+    "file": "dataset/train/laptop/01502022.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "7bb2953474295df8904b17f4df2ab091902db4ccd03b6302c5eed6172384f077"
+  },
+  {
+    "file": "dataset/train/laptop/01502024.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "edbe1f87b0d52b09a38b992a87876bfdc03516cc633d4adca13bcd94c1fbc75f"
+  },
+  {
+    "file": "dataset/train/laptop/01502051.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "5cf6067c6b5f5c3d215280f839c5dc6a4277b4a164fd437591a52f3d73b94a76"
+  },
+  {
+    "file": "dataset/train/laptop/01502060.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "5b55aebd143069152f7413af22f2a5ad5ec1d3d17d71fc85ba08d47e8504d9b7"
+  },
+  {
+    "file": "dataset/train/laptop/01502093.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "8942114c47fedbec42aa3b456b67b94df0d69beb752ffb3abe2b33decd1e224f"
+  },
+  {
+    "file": "dataset/train/laptop/01502146.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "94a027a5a9966b1136b441fcb8e1b7ab3c4992bfe39150bcb4c45a41fcd68de6"
+  },
+  {
+    "file": "dataset/train/laptop/01502147.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "6392730e39dce015f828635de2075805630de0432843a33db43d7d6afcf7e805"
+  },
+  {
+    "file": "dataset/train/laptop/01502192 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "ad96f8f641966fa50999230766d8b405f49c3ed6ca63d3e8a0595e9f22fe03d9"
+  },
+  {
+    "file": "dataset/train/laptop/01502312 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "d4271dd4e9903ee897db5e4bf7fdc6c4f3b94f5d52df524e8e59b9091e9e7051"
+  },
+  {
+    "file": "dataset/train/laptop/01502329 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "1c1490ad6cb6eeb76d7fdede5d9bcd6698ee4df231cc44b179c7a0a7d3061b55"
+  },
+  {
+    "file": "dataset/train/laptop/01502331 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "6164728fa1b6cfe750c879f70e8601e3b7cba6a417c2376629273b4f4476d458"
+  },
+  {
+    "file": "dataset/train/laptop/01502346 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "133a327087a05498a24997292140a38966720fd3d40a25320ec32a04c86b16a4"
+  },
+  {
+    "file": "dataset/train/laptop/01502347 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "3e83631827310d892c189ac96af3ff511cac8562ba07a2082b44e562c36e4951"
+  },
+  {
+    "file": "dataset/train/laptop/01502397 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "c645f004445bbc01bdde183b4c738301b23d3967c0739a4e9aa34eea8863c456"
+  },
+  {
+    "file": "dataset/train/laptop/01502399 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "2416fc5af7fbf076a19c28c5cd537de5ffd9182f0691806153f127582b9fd3ed"
+  },
+  {
+    "file": "dataset/train/laptop/01502400 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "d266a1c7756d8a6a936af2f106a461bdf608171ba6dc2a72d1fcd9e4fce64f9d"
+  },
+  {
+    "file": "dataset/train/laptop/01502401 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "99e7edd9b17da99940a20fb4c9a82beb8b493acfefe8be1e39c211797b5d5342"
+  },
+  {
+    "file": "dataset/train/laptop/01502432 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "2f8b7e459c46fc28b0646bd0f7f4780538cbe4bfb1c9c392c485cdc275e5c449"
+  },
+  {
+    "file": "dataset/train/laptop/01502966 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "e117587429a627a1f96c1dfbe8b7c318deba01dd884ab703fd547d5339492463"
+  },
+  {
+    "file": "dataset/train/laptop/01502968 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "43823857e313fd700679f6f0b67f0a387c578d3f7de9d3bc48f422d455bd1bb5"
+  },
+  {
+    "file": "dataset/train/laptop/01503005 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "a326b25ad0eb431b803f8e286e1bdbdce058ec4ff6617c4fc3a74dcd3c9ee9ba"
+  },
+  {
+    "file": "dataset/train/laptop/01503006 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "775afd52900218247b0c8fa1677f7a856ee95e0dbeb189b9963ecf60376b7bdb"
+  },
+  {
+    "file": "dataset/train/laptop/01503036 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "8b181efb4c8fa8621818491abe07cdc341e864e87504596053824a49638e70a0"
+  },
+  {
+    "file": "dataset/train/laptop/01503038 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "95591d008735040534a1e96a0c965c993a5804eea82049a07ef9087bbaf82f0d"
+  },
+  {
+    "file": "dataset/train/laptop/01503165 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "a0190a06f3f843358dbe0c016e756792af4e58c6052adacaf02e8b32f5f87544"
+  },
+  {
+    "file": "dataset/train/laptop/01503167 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "8446952e81b7c4d8dba81059438fe50a34f4e6bea08674f47c439de811353f1f"
+  },
+  {
+    "file": "dataset/train/laptop/01503189 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "6e2196f7135891f5e7cd6b596ec1a45d6c733a338ce72a360558ca8cc76941db"
+  },
+  {
+    "file": "dataset/train/laptop/01503190 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "b1adeadb9d0b9b58373e6d394ae0d7a2bab2d5921bd31590e94e1da86e95c9e8"
+  },
+  {
+    "file": "dataset/train/laptop/01503262.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "b9f1a944bace25bdba4661f1cd4fcac595263b5fb76c77a0ca076633941a53a3"
+  },
+  {
+    "file": "dataset/train/laptop/01503270 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "f9d46a5548e883ec0370f3281b493f4c0f41398628a827c304a7885488264733"
+  },
+  {
+    "file": "dataset/train/laptop/01503271 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "c86999221611ecc4fa3f18228488dc0f6147c7cdca662782d53aec96c5cfad5a"
+  },
+  {
+    "file": "dataset/train/laptop/01503297 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "f2d66b8d2b72f7e126ef1f9baa7d2fbd5d6d59bb6a355a474d802ce0a78f0abe"
+  },
+  {
+    "file": "dataset/train/laptop/01503415.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "9f90ca758d7b2941c83b4812f7f6af826a1266ea5aa031c539ac41f2aeac9160"
+  },
+  {
+    "file": "dataset/train/laptop/01503416.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "13c94ca619f03e6eafaf06904873a3e9750a57956747e06659942198affbb530"
+  },
+  {
+    "file": "dataset/train/laptop/01503417.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "d4db3e2dd45c0760eb0e124076eac8dd40d328cb20c883a22e10fbbe0187e1b8"
+  },
+  {
+    "file": "dataset/train/laptop/01503430.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "0f2ab439de1e0db4e7a06b9c3368264df2bc9e351c24f3bab89f9dd8f52fede8"
+  },
+  {
+    "file": "dataset/train/laptop/01503436.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "99379516140fde16a7a3936f18bc13ee148006ccfee775744fb061f4f750517a"
+  },
+  {
+    "file": "dataset/train/laptop/01503444.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "9d43d1c5d8d3e8e2c56215c0b4ea8b441e100dae4626ad0f7a69482d2e7dd53f"
+  },
+  {
+    "file": "dataset/train/laptop/01503445.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "a8d3f2ed030dbf149c6f813cd1255d8a19a11265b97142e8225050394df16b32"
+  },
+  {
+    "file": "dataset/train/laptop/01503463 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "ddf03292627ac847ed52274e6773c36a9c240d9aae5b63e5b806a91110aa6a82"
+  },
+  {
+    "file": "dataset/train/laptop/01503467 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "28dbe68daa271c502142752c0bbfa2b4a6f08717fe540b573f26d8d6d411b418"
+  },
+  {
+    "file": "dataset/train/laptop/01503584 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "b52504523022cf85d44d1b509bb89962e0f75c708fcf948edb73b3bb8480da23"
+  },
+  {
+    "file": "dataset/train/laptop/01503603 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "8547e71a595dad1b870f24e29199d8ec38f2175ca278a3e8f43ea2d74c21d8ed"
+  },
+  {
+    "file": "dataset/train/laptop/01503666 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "4deff4a175b8a94b8cbd4fd84a205def21c1ca7bca8018f10f04728abdfb6e6f"
+  },
+  {
+    "file": "dataset/train/laptop/01503670 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "d00f9a16156efe43359e4536e3ed12fdbc816ee138035a134fcabb1c53931701"
+  },
+  {
+    "file": "dataset/train/laptop/01503685 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "a5ad4491dc07a65a5fec4503bdaf8bd653c0c904b4f2e62042af708a8b6a7ac9"
+  },
+  {
+    "file": "dataset/train/laptop/01503686 - Copy.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "30cf7d9e883c90f61259d241a9356184632d121f0050672852253b0b5db93c1a"
+  },
+  {
+    "file": "dataset/train/laptop/01503691.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "9aabe1f6421c080c7e9d6178565006278bbca17128d32f8ea97daa62862d3507"
+  },
+  {
+    "file": "dataset/train/laptop/01503695.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "749b672d019bb4c340b7758d86511fcb3bb78b8f0815a85da22c59dddb6fa787"
+  },
+  {
+    "file": "dataset/train/laptop/01503696.jpg",
+    "split": "train",
+    "class": "laptop",
+    "sha256": "508254d519ab1f58c2a5b85f716ddb7ae26ee759d8e8aad6d52772531777d520"
+  },
+  {
+    "file": "dataset/train/monitor/01601560.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "011ae66c845d7da6d8863402b6650ae44f737466e4d0b4abed59066b6076659a"
+  },
+  {
+    "file": "dataset/train/monitor/01601562.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "a81c8e349e206826744b2901ec7ac974d72db736e33fe9484e090c2c3252c5e4"
+  },
+  {
+    "file": "dataset/train/monitor/01601840.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "b94bc78192a782b1c2714ba7adfd0cb4fb4458d056ff63f3dbc3e4d42fc1fcd3"
+  },
+  {
+    "file": "dataset/train/monitor/01601862.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "c7d8d7e2938752add36b3fcf63399cc4bbb49a489e9ef6ab8a8c767d76e0ea7c"
+  },
+  {
+    "file": "dataset/train/monitor/01601863.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "32a470e1b34d1c6d1bf3c13289fd4a2dbbe619ccd67fbf68a67de4dfad24e408"
+  },
+  {
+    "file": "dataset/train/monitor/01601885.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "e6b9dc1010f0ec7577ce881d49c38f031becceb8281224f26537b9a16cdb0a37"
+  },
+  {
+    "file": "dataset/train/monitor/01601886.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "7b556ea98d649d8b659e542aa62e1576cf83f30876538b2b0b5d32e074ab9a0c"
+  },
+  {
+    "file": "dataset/train/monitor/01601957.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "92f45ff486073d5ab31627a82f00d3acfd916d3173cd8c9d0d2c8e8b6999cc87"
+  },
+  {
+    "file": "dataset/train/monitor/01601999.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "1beb73a064ae8f55388ff6c3b6ee9adee7f0d159714d0af95fde9c2ff1abe57a"
+  },
+  {
+    "file": "dataset/train/monitor/01602006.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "05fbc88da97c1d1b49c2e01b48e86ff82bf47d338032b0ba5eea9b4263354f4b"
+  },
+  {
+    "file": "dataset/train/monitor/01602007.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "7bedc22c7009f2a19b2206611abca88ba608dd82d2391c82c786ea811c1bd2f4"
+  },
+  {
+    "file": "dataset/train/monitor/01602010.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "2238e998d0f0f3d4da9ecb642c3dac43510cdf73e5804a381fb85d1beed92d4a"
+  },
+  {
+    "file": "dataset/train/monitor/01602011.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "8c85c955fff8b42ba1f6832b3c9e3aac26e761b58315e6edd1b725579f3a78b9"
+  },
+  {
+    "file": "dataset/train/monitor/01602019.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "55e43886daada894569e18cfde0e37158472248eda819cfd400536c72aa09222"
+  },
+  {
+    "file": "dataset/train/monitor/01602023.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "39368236566fbb730578235743d0cd261eb1eea5eaa7b20211153d4359b24836"
+  },
+  {
+    "file": "dataset/train/monitor/01602024.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "096fdd446d49586addfa0615cf596a4d541e6ea019afb83bdaca959dced53ae0"
+  },
+  {
+    "file": "dataset/train/monitor/01602026.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "2ab7f1ab41b497fdd60a0db4cd8695cd02f78d2fc5045a2079931073b7e625cf"
+  },
+  {
+    "file": "dataset/train/monitor/01602048.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "5c56852ace62cd9e209e419cbb9b354bc1af2b8fef543c3f1a0ffa2872cb3be9"
+  },
+  {
+    "file": "dataset/train/monitor/01602061.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "df301f32ccc5dbefe4c81f9a96b8979ea28dd453e80efc1e33023e65b5cbd538"
+  },
+  {
+    "file": "dataset/train/monitor/01602085.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "5d478157a9672c513d205e470c302f8826f0d29eb0a8f6ba58ec304b2bcb9f77"
+  },
+  {
+    "file": "dataset/train/monitor/01602382.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "4fd19559b4e9a8424ef13e98e526193271760ff815090c7f743f613ae96ea7e8"
+  },
+  {
+    "file": "dataset/train/monitor/01602398.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "3156b2c865d6382efa5020daa21ebc9d397d8edc4a5ad28be338b5a370ef08c0"
+  },
+  {
+    "file": "dataset/train/monitor/01602401.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "1450c49c91a7fc5afb7ef176d0dcd2dd3df415ef6b57ae2af8dc245f9977e6a9"
+  },
+  {
+    "file": "dataset/train/monitor/01602416.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "af218e65c2da213f7224038688e354f21a5a330fa4ab16dd4f89f9e95e8940ec"
+  },
+  {
+    "file": "dataset/train/monitor/01602417.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "7b2a0be6b1542bbb194aab371ed811ffc56570f0cf7d033635f53ef1085a364b"
+  },
+  {
+    "file": "dataset/train/monitor/01602418.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "ca2938ee0407e3e1b4d7be2ce07bc14bcdbbe774ebb11c4068a9a87e6b9075cb"
+  },
+  {
+    "file": "dataset/train/monitor/01602419.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "23fc7158516e5690cc1fb38edfd6bc0add82b9202af5c7a836adde98a25ce774"
+  },
+  {
+    "file": "dataset/train/monitor/01602420.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "ec3aba0fbca1b21d483d291328d56bcb91b4b5c68799f26dfb777c3f36c9c002"
+  },
+  {
+    "file": "dataset/train/monitor/01602421.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "a4dcd4bc33e04eef79fa123f133bee0a02434bf724e1c59857d0a11393438032"
+  },
+  {
+    "file": "dataset/train/monitor/01602427.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "16c240ef57abd8246056d59bedc3ed39c4461548ae49d7f1aa0a8736240d4960"
+  },
+  {
+    "file": "dataset/train/monitor/01602428.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "5f4016e644e1b20e46b2076bae17c549866f05e6daf156dde6bcd22da6697e6f"
+  },
+  {
+    "file": "dataset/train/monitor/01602430.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "88fa0607562a14a8db1c1fa4c1f4f5effb0d18f5d4d06b0ac728e38daea71030"
+  },
+  {
+    "file": "dataset/train/monitor/01602434.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "162324b761d77a368062827b36df423dfd29d4fe46ce0aae13429ed7e49f23d0"
+  },
+  {
+    "file": "dataset/train/monitor/01602448.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "f0f608ffbe2e3cda1a832a7e62cc58fef02681ec8d2f78c589d09290153683da"
+  },
+  {
+    "file": "dataset/train/monitor/01602451.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "ba2e12ce4c7dccae923dbd0c75b6c070ad11d2fd2324f07f1d8dbc607c008aef"
+  },
+  {
+    "file": "dataset/train/monitor/01602453.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "f97534577e563da303bd02d646988afc89ba11c5b28060af03c54ce758f54f6f"
+  },
+  {
+    "file": "dataset/train/monitor/01602455.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "f0568bebabe0b8cd43044319ac40b16313aaba62bc66094e23df99ce887c0429"
+  },
+  {
+    "file": "dataset/train/monitor/01602651.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "d42ab3ca4e327aa0ea241cadaab04c0ab03e017b8a13ff9c9f4030d4cc5a7c05"
+  },
+  {
+    "file": "dataset/train/monitor/01602652.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "0d3d40cf95dbe4a7c452f6759633977494be7f0d0a33a75f44e10160fc1e6851"
+  },
+  {
+    "file": "dataset/train/monitor/01602654.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "f9c708be43fc0d4b01022a6dfe6f5c4c396f4c9182541b129775b77e29570bf2"
+  },
+  {
+    "file": "dataset/train/monitor/01602673.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "95a4765989c9c0184806e4e2df5563df42988dc81277c6cd9fd04fb4d96899de"
+  },
+  {
+    "file": "dataset/train/monitor/01602676.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "68cccf56791ebc1b97c4f7762b4db902987962b5d35c14d2765e0931f7686e49"
+  },
+  {
+    "file": "dataset/train/monitor/01602692.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "0852e2517f150859246415d589ad4609734e312ca132454fe031dab06f5932ca"
+  },
+  {
+    "file": "dataset/train/monitor/01602693.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "328023234aa59fe17a8f9a5091e21d1f483d64ff679cf1634d6a4ae3fb1ae340"
+  },
+  {
+    "file": "dataset/train/monitor/01602990.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "1f90c81c6beb68567c29adc4684ad20b496febe1967d1d8c62155f95bbb11d52"
+  },
+  {
+    "file": "dataset/train/monitor/01602991.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "49f5937fa4e00baad4af2cf9d1e7864cc809a5b2baa7df4cb5511928a9d3e7a8"
+  },
+  {
+    "file": "dataset/train/monitor/01603010.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "f1a766efd276081f3ea1f49c9fca3c489e28272c71f596c549a709d4f003ad44"
+  },
+  {
+    "file": "dataset/train/monitor/01603016.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "4650c15048b09cf8e04b5f940bd1acef69e80c5904582aa116578a7105dae632"
+  },
+  {
+    "file": "dataset/train/monitor/01603240.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "f55cc19010a13025cf7645aadd4a3648987388b713c0cbeff9fbb3aa5a2a03f8"
+  },
+  {
+    "file": "dataset/train/monitor/01603242.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "51e5052d99f75e9236090a90cd7e09b9eec65e699298bfd63b539f26b2a5c909"
+  },
+  {
+    "file": "dataset/train/monitor/01603527.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "8cff404d4839b2d9bde3253caeac1b306a31c64b78e5bda102c745da227bab1f"
+  },
+  {
+    "file": "dataset/train/monitor/01603528.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "67102e2f690d79acce316ade7710fc0f79006345548cf55a5ad5fadf08678bfd"
+  },
+  {
+    "file": "dataset/train/monitor/01603556.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "62315ec0d51a440cb496a5dbf5e9dc93f322d3cd39f83d70e9abe1a561f9781c"
+  },
+  {
+    "file": "dataset/train/monitor/01603559.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "649ddd764b209ccadf7e6eb0a5e3e47666c4626978d32026ec1b2d8e6b97998d"
+  },
+  {
+    "file": "dataset/train/monitor/01603569.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "8ac2316b5fa4dd435b31624cf5cff4f1243146aa59fb705aa78968ef8761c124"
+  },
+  {
+    "file": "dataset/train/monitor/01603591.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "fea4adee9e8d4fe61d35f6574c12092400f8dce5c195187a5cc0ea828ffb5cd0"
+  },
+  {
+    "file": "dataset/train/monitor/01603603.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "8a0fa6a8e17bb0029878bc88485c93c3ccb75d4037acfe57ecf80db6dd991086"
+  },
+  {
+    "file": "dataset/train/monitor/01603610.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "5d5ca3bade4e0c483f9c75ce6e296d27d342d723b9b902f0940790f66dce0dfe"
+  },
+  {
+    "file": "dataset/train/monitor/01603611.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "6402b770995bb700eb8b3b298425d89f09c343a67876867402629646a535e879"
+  },
+  {
+    "file": "dataset/train/monitor/01603613.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "dcbdb2144b014daa2d21b297b2c84435cc79d394a9899a53aeab0b84474e7012"
+  },
+  {
+    "file": "dataset/train/monitor/01603630.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "0b22360ea29d7d985624f6e10e23ea64add7d31075f43f8422b686986ff4d020"
+  },
+  {
+    "file": "dataset/train/monitor/01603633.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "d76b9c15ae20e53ae92ad4a14da240dadd45d914280b3cec380f2cb413126fd3"
+  },
+  {
+    "file": "dataset/train/monitor/01603637.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "66bc14fbfa8e31b92ae533f98111a918f45bc2a40833ae2013c64ec9cb2c1203"
+  },
+  {
+    "file": "dataset/train/monitor/01603663.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "79821607c411cf397cfc7fa6f835aac08b91e63b0e8102608257f5ba66badea1"
+  },
+  {
+    "file": "dataset/train/monitor/01604101.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "6bb6a15dda693bbbb5fd1950bd8581dfd145024e9a081e4dcb4c6c3ffb6a3a9f"
+  },
+  {
+    "file": "dataset/train/monitor/01604107.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "59f64b97da588eb92a4aa16049460a08049cdb952bea38db87a21985a51b2227"
+  },
+  {
+    "file": "dataset/train/monitor/01604150.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "5ce6ff0b1f1713f41384afad22ba7600d8e1fdb9dbc385a43d66c6ba911def9e"
+  },
+  {
+    "file": "dataset/train/monitor/01604188.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "40cab651c2fed06f0f994d188cae26c316709f84fa848f4647f944ab3365b1eb"
+  },
+  {
+    "file": "dataset/train/monitor/01604378.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "70cdbe0769d02adacb4483f2ab090fb3b0e61c98b0604e94e51f5afbdc74917e"
+  },
+  {
+    "file": "dataset/train/monitor/01604405.jpg",
+    "split": "train",
+    "class": "monitor",
+    "sha256": "bf4cdd70d59f6f82aac12f81531362b5235ad07a3bbf430b1b606b945d7b652f"
+  },
+  {
+    "file": "dataset/train/telephone/02500039 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "e270922b0ef71b6d73969e8b0344149d5e468412908503d304e4590e1b0fbdf9"
+  },
+  {
+    "file": "dataset/train/telephone/02500040 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "516cc53eea73dd2960ab793c12563ab23350598e869a75c37a8ca7320db9cc6c"
+  },
+  {
+    "file": "dataset/train/telephone/02500041 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "30a65c62193de7807234203dd570415878ddeef7fa207a86a9380a72a3815d50"
+  },
+  {
+    "file": "dataset/train/telephone/02500047 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "2e63bd1f72a1734c7d1b589a74d97ee35d2d263d0ca04d2dcc0680f9985d8080"
+  },
+  {
+    "file": "dataset/train/telephone/02500048 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "9e875a6e936abd7cac7e83d6a4b35b0b705caccf1612871dd22926c4a7065667"
+  },
+  {
+    "file": "dataset/train/telephone/02500063 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "c9df15f30b8bda95cad49a12b749e43b150f80bd4789d8e54e7065ea5435fdfc"
+  },
+  {
+    "file": "dataset/train/telephone/02500104 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "74a677962731f50629912804218016bd2dd08a9b6131c8440285005b14f3019b"
+  },
+  {
+    "file": "dataset/train/telephone/02500112 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "1ebe5c75f601e12174cc6a39a000afc9915f7243e09bd28bc3739d3e9bae2189"
+  },
+  {
+    "file": "dataset/train/telephone/02500263 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "60b7d652e9a20ad967a8c039a0b2fea4a0d3153cd5d4418ddd4d880147dc830f"
+  },
+  {
+    "file": "dataset/train/telephone/02500265 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "a47c9f555488e117254369409d16a6dfdd40f51dcb5bbbe6b7c6913ad7e01fd2"
+  },
+  {
+    "file": "dataset/train/telephone/02500282 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "27e0d322caaba63c6a83f91ced2f1c2aa9eb7855a31782300f234e0e92ca9c92"
+  },
+  {
+    "file": "dataset/train/telephone/02500285 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "de773f4fed6e757b0996f3a0b92220958b045b87c03edc98c2c055555088c44b"
+  },
+  {
+    "file": "dataset/train/telephone/02500288 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "393dd15961864d64f7a64ab076cbdfb8f4330e882fbe6efd8892034de3dfb66c"
+  },
+  {
+    "file": "dataset/train/telephone/02500298 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "3d61b080e9408958e5c71f98cd8a66fe777b50616caf67313c0ee17304b5214f"
+  },
+  {
+    "file": "dataset/train/telephone/025005067 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "32d8827e91f868f3e7fdb2a372f66530a19a7865072259528a0f054461789bc3"
+  },
+  {
+    "file": "dataset/train/telephone/025005138 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "75cc97fc6e93ddf0f101fbf4c84b04810be10106c7a7ee4bef673fb1c6c7fdfd"
+  },
+  {
+    "file": "dataset/train/telephone/025005158 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "928c2141e1f7494b6ae521482a200860dd65fbbdf3d662db135894bde5aff177"
+  },
+  {
+    "file": "dataset/train/telephone/025005160 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "b1fb85d6551fa1206aaa699360ab0f9b41025ee55519cd79db9784b9f8937ae2"
+  },
+  {
+    "file": "dataset/train/telephone/025005204 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "0ce0f1121725c96721cc55f47837289149f5f62c9560491bab7cc991d916d23c"
+  },
+  {
+    "file": "dataset/train/telephone/025005308 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "daa2b81c08d4a923611bd97c3b5fd895a91f9702bcab6e277752363dbda41cdc"
+  },
+  {
+    "file": "dataset/train/telephone/025005329 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "26e36bc1e3d884bc41428b525b3a44acfa78ea5199ff4446d5a2592af91ea9d9"
+  },
+  {
+    "file": "dataset/train/telephone/025005338 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "c3b006bcc944110589082d1c2b4d312e3a60f80e0c7c1e1c1114429da5261e63"
+  },
+  {
+    "file": "dataset/train/telephone/025005351 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "52f46c36b48e1f0617b03156c8ee64f35cd19cef82f5faaeb2f79df34984649a"
+  },
+  {
+    "file": "dataset/train/telephone/025005356 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "4036bb81b6d3f7572bc05da5155ad1785046c0dba36bb8a3b757e587509b2f59"
+  },
+  {
+    "file": "dataset/train/telephone/025005378 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "4f6c99c7466726f2d522e5c8189a0b60b6e51e0210071379ac3448a7a6da7d09"
+  },
+  {
+    "file": "dataset/train/telephone/025005381 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "2b118911f5bb9352ad0bc027dcac73c7e5432dbbf4f8f1a16ad72a47b5e68f21"
+  },
+  {
+    "file": "dataset/train/telephone/025005383 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "3f0b94fdaa4fa170a474c23df452312c40020afb9f4927332743bafaf99e0582"
+  },
+  {
+    "file": "dataset/train/telephone/025005392 - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "84c4eb365b5fc38af46dba773310b72db1f6909a340984f977c73452321d8bf6"
+  },
+  {
+    "file": "dataset/train/telephone/02501206 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "6aaa1a6e92e86b9f900b97fd2289a904f0c5e16cf5e9203dd922b461c8c5c8b1"
+  },
+  {
+    "file": "dataset/train/telephone/02501207 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "16e566ec6549f0f7ad9561115294a917ba5444ce4e46acc2720f6cb4294f305f"
+  },
+  {
+    "file": "dataset/train/telephone/02501235 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "dbfd6b20750047e843d6ed28898b5da4f5a4edbf0673e9ad45e2f7611660d4af"
+  },
+  {
+    "file": "dataset/train/telephone/02501249 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "2c0265aafce971846f9f02256e79f2f5b00bf5bbfb6ebf059257c2e722a652bc"
+  },
+  {
+    "file": "dataset/train/telephone/02501388 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "40f027bc71c9f094caa173623ed698256ad26e9f43c57ed2150f0d4433305e38"
+  },
+  {
+    "file": "dataset/train/telephone/02501389 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "f5968ee1828efceca15fabd7040ed5d735182bcbf7fc7867d48d921802d868cd"
+  },
+  {
+    "file": "dataset/train/telephone/02501692 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "5ea4e4e835fb763615427adb443f4788c25f92ad42a99ef6e8578b6ccc47a596"
+  },
+  {
+    "file": "dataset/train/telephone/02501771 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "e6f2ce78b8f07ad6119b8a55a44ff33ca12ff5d3a2c10c7e983f360fd5b028c5"
+  },
+  {
+    "file": "dataset/train/telephone/02502748 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "e0075b325eb689ca5118e1315d5bd2d4c5843d624c386d4fefcffed5d827e5d6"
+  },
+  {
+    "file": "dataset/train/telephone/02502775 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "5ae13341e16918f2998123414ef54e4afc53df37d7c71194c9e17c60f0f6ff76"
+  },
+  {
+    "file": "dataset/train/telephone/02503151 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "5b4fecd4b23861e73a6a5fa54e9463f70ecb0a1e9f328ead025bef08b2f136a6"
+  },
+  {
+    "file": "dataset/train/telephone/02503167 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "079a4a050707bcf7501385ff302dd259b9c033d926dbc4570ba08a177a3fd345"
+  },
+  {
+    "file": "dataset/train/telephone/02503263 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "de29d1015109f246f3124fe406de1138167d1b9712ffecb3da77858e73983a22"
+  },
+  {
+    "file": "dataset/train/telephone/02503267 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "08be7512b400d7ef01f7a94520b3b0d1a4369213234e488fcb99b3a7493841c2"
+  },
+  {
+    "file": "dataset/train/telephone/02503318 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "d41fbc509c614be67f793a5670067a45eadd5c28c3a508b117cef7fbb00ad1e6"
+  },
+  {
+    "file": "dataset/train/telephone/02503351 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "027ca4eb480b54ed6096b3b05ca43fe80240dce6d0db746d66cdcd10496b9014"
+  },
+  {
+    "file": "dataset/train/telephone/02503352 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "6eb1ea8040e49673c1c2ecfdd1d13921277e1fc01969aaaecdb109c3f4b1b61c"
+  },
+  {
+    "file": "dataset/train/telephone/02503367 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "4ce6741ef57edd534b9a690fa95104287f3a1bcddbb34c7594ec7494d40d7e9e"
+  },
+  {
+    "file": "dataset/train/telephone/02503385 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "a88e531dc744554e826f24ed22c5fe9ede976a76fb46e88af6a51471309400e6"
+  },
+  {
+    "file": "dataset/train/telephone/02503412 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "2cac69505c40e1fe6aca66ad5731836b756faaf2b9dd80d9804e3370b4eb4a55"
+  },
+  {
+    "file": "dataset/train/telephone/02503478 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "8a40b5e7abd154146a2b75f70508d8dd352fa78c7c21b626c168ef7426da1e9f"
+  },
+  {
+    "file": "dataset/train/telephone/02503480 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "6e23a2371893b6e081024425626d3b8e98a2b8574ff28fc569fca3649482b5c6"
+  },
+  {
+    "file": "dataset/train/telephone/02503775 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "5a7afb783b9278112ec5461c2ad712616a831187e79c6f15138f1d437b47d017"
+  },
+  {
+    "file": "dataset/train/telephone/02503796 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "022877e143441fdd39aafb16c289166c469d82ad6a056001c9f39f46850185c8"
+  },
+  {
+    "file": "dataset/train/telephone/02503836 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "fe151bf8a5bc5a36584e2ed3802162fa86e463414c1cda31f00660a4315c59e4"
+  },
+  {
+    "file": "dataset/train/telephone/02503901 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "eae97498dd798df71338bb551720d7e1838a00d24cba3f7dd31fa808a91e473c"
+  },
+  {
+    "file": "dataset/train/telephone/02503907 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "a32d34182a5fc0bdae56a3d6781a4aad808427a0bb98d16d900d0363160915d8"
+  },
+  {
+    "file": "dataset/train/telephone/02503914 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "962e25220bb19acd7c7e7368706b5137679536042cb1308221fcd065514abe88"
+  },
+  {
+    "file": "dataset/train/telephone/02504144 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "2265ee9f8e509d02e0677f75a22857de89c9c93d59b541844cdc9a8af5650ab4"
+  },
+  {
+    "file": "dataset/train/telephone/02504244 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "ecdd26f2994fc843654b897c921cde6dc9d7d1e85f39361d4ed310452f2c5701"
+  },
+  {
+    "file": "dataset/train/telephone/02504246 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "b7c0c695dac835ea38ab0e08f7f255b3aee6c743340525e450b48185f9d23c8e"
+  },
+  {
+    "file": "dataset/train/telephone/02504266 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "0cf31bd6849ef6de0057b2de4bc859ecbd45b5deb8c86eb5b758772e059a891a"
+  },
+  {
+    "file": "dataset/train/telephone/02504321 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "bffa70687c4360cbd58c6ef011355146d3c087215f14ee04374e29309e072dce"
+  },
+  {
+    "file": "dataset/train/telephone/02504323 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "4a74d4005b82600d12d1d0be42f138f8fcdd6c23605f090caf3c89c4ce234902"
+  },
+  {
+    "file": "dataset/train/telephone/02504333 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "c0803bd25a1cfa3125f569d4f4b6fe76ea413b7d0cfc4705cb2195e76f4be7f8"
+  },
+  {
+    "file": "dataset/train/telephone/02504756 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "c44db0bec1343c9a5f666afa2fda9b6c51eee59596ba4a00f036cc4953cfe0e7"
+  },
+  {
+    "file": "dataset/train/telephone/02504767.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "5fdafab64a63b251ab5c0b0dcda2f53bb7941f0afc54de2aa74a17cf5abaf271"
+  },
+  {
+    "file": "dataset/train/telephone/02504781 - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "06270e1484a2dca2864af1075635582957fd039cd718737d350805fbd1ac2f98"
+  },
+  {
+    "file": "dataset/train/telephone/02504785 - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "24060ca691af4ab64f9614ccb16c91e14642958312e0e4fe68cbc9936e66fdb0"
+  },
+  {
+    "file": "dataset/train/telephone/02504788 - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "ba8017b14eaa9e5e86c0f91cae679293665491dab9ef9e9d7f5ca8f09ef3279b"
+  },
+  {
+    "file": "dataset/train/telephone/02504802.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "f4f5d1958d9951520158a7ac157488d4682b8e7cd5ed72490376a4027d045550"
+  },
+  {
+    "file": "dataset/train/telephone/02504855 - Copy - Copy - Copy.jpg",
+    "split": "train",
+    "class": "telephone",
+    "sha256": "d4447ef621311a6f6fdf8d26ac4d133967e1dfb940132c498d0ba90e54c5a4cd"
+  },
+  {
+    "file": "dataset/validate/keyboard/01400276.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "c6bdbd9e57fe3fb542ae869ff7b261e03828f4941b91dc223ebddc0a354e2900"
+  },
+  {
+    "file": "dataset/validate/keyboard/01400302.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "91e85b630c73d52e8bc19975f601f7c89bc81c757b5f75cd359551e91923559e"
+  },
+  {
+    "file": "dataset/validate/keyboard/01400423.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "0cdd0cb2dfb9acbf4d4b77722ab4b815568092617376b434c223ac806bb0121e"
+  },
+  {
+    "file": "dataset/validate/keyboard/01400539.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "7f8a4bb60bd28b61ee8be9fa0ee46c9a2ecefe081f9f848f07c471aaa891548d"
+  },
+  {
+    "file": "dataset/validate/keyboard/01401322.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "96360ef4d7ae1848c8d4cbbe011997144a87ecbe659d7ff44439ded458933d0f"
+  },
+  {
+    "file": "dataset/validate/keyboard/01401401.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "90a58b1a4f4f5a1895ab14fdfcec280ae11f3cd017e1ece6faab1ed8e1101154"
+  },
+  {
+    "file": "dataset/validate/keyboard/01401777.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "3da7c29a9b5396c65775da7b140141532e267f45eb75b4d41f34d2b4356c495f"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402359.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "64be2569b3a1b55fcd5b190930fd9c99fe113e105148b873869c0c985df83b84"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402449.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "389869af2c6ca4c9867fe233cec087b1730bece53bb9febd3daa7e3008ca2fe0"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402465.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "0264ff8fd5ad961fc07a26ec7cc9eba84dbe38c06a91c851af41443de5a3eb82"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402470.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "016fe6cad3b2248726298fad155704f3b5a2ec9567b605f9318ddf4c572eea29"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402583.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "1ab1493cfe3646bfcdc0e3ee13e277babce1dbb5394a87303975bb91d454cd8d"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402694 - Copy.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "11bb1a03f3a5b7ef45743251aef4752a135d48e96a279e4e51a0f9a90923efa1"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402882 - Copy.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "a1943771241cdfcda7110e10d0a087699ec84c65f62c9a8499ce31a35f1e5d28"
+  },
+  {
+    "file": "dataset/validate/keyboard/01402887.jpg",
+    "split": "validate",
+    "class": "keyboard",
+    "sha256": "1aaecf730f1ad93ba24733ce2a609ad52dc00cf64678266884ce1b54926ecc6e"
+  },
+  {
+    "file": "dataset/validate/laptop/01500006.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "9ecb94aea503201e1ebc84833969d0f77282292f8bdd1944076b8f50b92556a7"
+  },
+  {
+    "file": "dataset/validate/laptop/01500044.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "6a14b43192da9db1e4ed36812c637db8d077c60eb1176fa54c2bfe92acc18ae8"
+  },
+  {
+    "file": "dataset/validate/laptop/01500325.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "65609fcd92c237fd63411810c018b127a98eb2c526aa1b23ee19bfa294bd2129"
+  },
+  {
+    "file": "dataset/validate/laptop/01501525.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "382b2cf0ca2f299526521796dd58661f90dff74438de772470dbc140c0be8ab5"
+  },
+  {
+    "file": "dataset/validate/laptop/01501824.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "e70042e45c62306e197eadd275114aeef7a91fbb70a1427bf597a4d0b3c2b172"
+  },
+  {
+    "file": "dataset/validate/laptop/01501825.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "bb69896f0165e11d95435b15646309314b6d3c5327d38f7fc9223b5957d19646"
+  },
+  {
+    "file": "dataset/validate/laptop/01502011.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "b3aa81820918434e1092f57ff861f0f9c892480a83313bf87103bd384335b47d"
+  },
+  {
+    "file": "dataset/validate/laptop/01502197 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "64e282f272c2c2837defbd554c04657afcde18f0a99b26de7774b777994d1fbb"
+  },
+  {
+    "file": "dataset/validate/laptop/01502969 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "37fd05b7c5f6b8a967b4aa660888fd4d16ea217a034801a571726d3c66c622a9"
+  },
+  {
+    "file": "dataset/validate/laptop/01502970 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "17806e3cff1346b9ed7d7d0db45c31d7482f3a8e2461126c4da0170e44333d2f"
+  },
+  {
+    "file": "dataset/validate/laptop/01503188 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "27998a88f76c59b87fa96547d7856a077fb50a7bbcbc71050bb5e06df62c31c7"
+  },
+  {
+    "file": "dataset/validate/laptop/01503248.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "12e9ec7965c1c94ab5b0b0934d142312eaecf4985fd4a358c28c66c6f9b4f304"
+  },
+  {
+    "file": "dataset/validate/laptop/01503315 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "5ba9944988b8d25a7af744f8b2721d411de9eb199231b16b5593c55248a452d6"
+  },
+  {
+    "file": "dataset/validate/laptop/01503663 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "4a3b6cf9caddafe8fb7897fe095021aaa956b4e92b3987d82220c7edacbca5b9"
+  },
+  {
+    "file": "dataset/validate/laptop/01503677 - Copy.jpg",
+    "split": "validate",
+    "class": "laptop",
+    "sha256": "f8a30c28f278936b686e2170b89d65dee06d08d22febbb17ffcb83edcc09ba6f"
+  },
+  {
+    "file": "dataset/validate/monitor/01601816.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "c13b472422ee23f50b16f137925be051ea38e2e881b73e6b072437dbf3d1e6fd"
+  },
+  {
+    "file": "dataset/validate/monitor/01601838.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "ccce5ac762b6d2ea47b330e277ca77060b6e988f151c2b588c311d0d29971460"
+  },
+  {
+    "file": "dataset/validate/monitor/01601979.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "1e9872bc77da5158a253af1068466f06b6326d9483db9c52365fc6a6f928fb94"
+  },
+  {
+    "file": "dataset/validate/monitor/01602001.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "5a5462fc1b08cf50c3891fdf47097816099bacb8db7bf546430e50618bf118b9"
+  },
+  {
+    "file": "dataset/validate/monitor/01602005.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "99904a6757c5782bac0b40eb496d08edcec30f3bbd70d8e1e6a5126489ce1ea9"
+  },
+  {
+    "file": "dataset/validate/monitor/01602009.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "356fe9db464354105764461f4f570687f1ccef8629dcad7a9336a0259b69dd48"
+  },
+  {
+    "file": "dataset/validate/monitor/01602066.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "081713cccef70092a7091c50b3b1102f7dc69d639683a6cdc48afe69c55b8a57"
+  },
+  {
+    "file": "dataset/validate/monitor/01602381.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "d4b6807d7fe604466105915147cd99a4fdd432fc5bf722310df84bda71a87760"
+  },
+  {
+    "file": "dataset/validate/monitor/01602402.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "fb356b92dcfab729436c94c69cbffe87ba1d993ae447420525e1679a1f21069b"
+  },
+  {
+    "file": "dataset/validate/monitor/01602666.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "3e9cd06b910eccbeaf679612f1ef41c960d869d472b8b7bdb9f9a3a9b3ba204e"
+  },
+  {
+    "file": "dataset/validate/monitor/01603530.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "94dabba6342a4d5f9de5f7b19c56736a7a03a38ccb367138ccf29ae8c6863641"
+  },
+  {
+    "file": "dataset/validate/monitor/01603592.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "fdf94698a8f667c468127af42dd2a7bef09c30d8bb74f84352a5491858f392e7"
+  },
+  {
+    "file": "dataset/validate/monitor/01603614.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "9c25873f807efdb4f66cc73f80630369f449bad5013133551f10db6fcaa6fbe6"
+  },
+  {
+    "file": "dataset/validate/monitor/01603658.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "036f53277e0b9e9ea1660193c9e47d599c503063ce0171a437a67ca7b311b53e"
+  },
+  {
+    "file": "dataset/validate/monitor/01604166.jpg",
+    "split": "validate",
+    "class": "monitor",
+    "sha256": "8a202f521b3afc8f843957e04cc20c8fbcc03e56f3e0adb2032e39afd061bb50"
+  },
+  {
+    "file": "dataset/validate/telephone/02500446 - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "4ffc30d9afe1e67ccf203319b16164ba90e194d843876ca843dc472b3b7c97c3"
+  },
+  {
+    "file": "dataset/validate/telephone/025005029 - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "7fe54e7901981c40c2739ccf3d466989ca4878e0598653475c97cf2d75025ea7"
+  },
+  {
+    "file": "dataset/validate/telephone/025005332 - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "56e4400f4fa6f0633374fda4fedbce0a8773f5f2521472a47fe6709f72af8125"
+  },
+  {
+    "file": "dataset/validate/telephone/025005355 - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "9f43b670738b84bac00203bdab1643d2e0c40a8fba7cdacde3b45d0dd50fe215"
+  },
+  {
+    "file": "dataset/validate/telephone/025005377 - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "4e5e31dc9eb51c059a935a30fb1ad8e1cd1ecf50fd86c005fd2ca56e1842f48d"
+  },
+  {
+    "file": "dataset/validate/telephone/02501227 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "df37e32a7b8efa72955787c6987f57bbabccc3f814d3b18dc7742a4c1e169b09"
+  },
+  {
+    "file": "dataset/validate/telephone/02502815 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "e83b2292e8e58424fc36ab7afca6b56e709176bc24f21a2c7ac72b1df4fcf89c"
+  },
+  {
+    "file": "dataset/validate/telephone/02503335 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "7c4858d919859302db3a937771fc042122c58fd78897824ba68da64ea62ca4ce"
+  },
+  {
+    "file": "dataset/validate/telephone/02503386 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "6758e9615b8db9d214d2d793ea4f5055497fffe69db5089e0bf0043f351036ab"
+  },
+  {
+    "file": "dataset/validate/telephone/02503828 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "8117deced324dfae8c632ceccd299abac317a0714700c4291ad592930f01f119"
+  },
+  {
+    "file": "dataset/validate/telephone/02503835 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "465a73b4ba7ef345bc10b60e47836a3d69c5aa98f59eba5303ebb61d12a87bd6"
+  },
+  {
+    "file": "dataset/validate/telephone/02504300 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "4cd1b1d4295391f5911e1cf885c2f872e779adf3d9fcadef5146c6beaa8c1c17"
+  },
+  {
+    "file": "dataset/validate/telephone/02504306 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "c44248c2962528150c024d12b536aca0d36ae3005a29d3572442198abed08e49"
+  },
+  {
+    "file": "dataset/validate/telephone/02504768.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "ff19fe0b20686e73f635e2a0137d4e447545289700c9979ab61f30d9f747eb58"
+  },
+  {
+    "file": "dataset/validate/telephone/02504860 - Copy - Copy - Copy.jpg",
+    "split": "validate",
+    "class": "telephone",
+    "sha256": "0a376e7162d07bac218b18cc6da9b90822f07610226d33cd6540a0532d585e23"
+  }
+]

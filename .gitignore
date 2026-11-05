@@ -1,0 +1,15 @@
+.cache/
+__pycache__/
+*.log
+.venv/
+*.bundle
+dataset/
+models/*.h5
+models/*.keras
+
+# Generated previews may contain dataset images.
+results/explanations.png
+results/explanation_examples.json
+results/demo_*
+results/app_smoke_check.json
+*_DRAFT.*
