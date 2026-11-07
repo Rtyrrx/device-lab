@@ -1,4 +1,4 @@
-﻿# Browser application
+# Browser application
 
 This directory is the complete static deployment for Device Lab. It runs two trained classifiers directly in the browser; no Python process, inference server, or API key is required.
 
@@ -9,6 +9,10 @@ python -m http.server 8080 --directory phone-site
 ```
 
 Run the command from the repository root and open [http://localhost:8080](http://localhost:8080). Camera capture is available on compatible phones through an image file input with `capture="environment"`. HTTPS hosting is recommended for phone use. Desktop browsers generally show a file picker.
+
+## Interface
+
+The main workspace contains image selection/capture, the optional condition selector, and the prediction/heatmap comparison. Class scores and device timings are expandable below a result. Recorded metrics and method/limitation details are available in the **Experiment results** and **How it works** disclosures. On smaller screens, results appear after an analysis and are scrolled into view.
 
 ## Architecture
 

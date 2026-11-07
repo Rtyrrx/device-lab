@@ -1,8 +1,86 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Device Lab · Computer Vision</title><link rel="stylesheet" href="./assets/style.css?v=3"></head>
-<body><div class="shell"><header><a class="brand" href="./">D<span class="brand-dot"></span> DEVICE LAB</a><span class="course">ON-DEVICE COMPUTER VISION</span><span class="local"><i></i> Runs on your device</span></header>
-<main><div class="intro"><p class="eyebrow">FROM RECOGNITION TO UNDERSTANDING</p><h1>One photo.<br>Four possibilities.</h1><p class="lede">Identify a monitor, telephone, laptop, or keyboard.<br>Compare the original model with a modern vision model—and see the evidence behind its answer.</p></div>
-<div class="workspace"><section class="panel input-panel"><div class="panel-heading"><span class="step">01</span><h2>Choose your image</h2></div><label class="upload" id="dropzone" tabindex="0"><input id="file" type="file" accept="image/*"><span class="upload-icon">↥</span><strong id="filename">Drop an image here</strong><span>or click to browse · JPG, PNG, WebP · up to 30 MB</span></label><label class="camera-button" tabindex="0" id="camera-button"><input id="camera" type="file" accept="image/*" capture="environment"><span aria-hidden="true">◉</span> Take photo</label><p class="supported-note">Only monitor, telephone, laptop, and keyboard are supported. A mouse or other object will still receive one of these labels.</p><div class="sample-label">FOUR SUPPORTED CATEGORIES</div><div class="category-chips"><span>Monitor</span><span>Telephone</span><span>Laptop</span><span>Keyboard</span></div><label class="field-label" for="condition">Make it more challenging</label><select id="condition"><option value="clean">Original image</option><option value="dim">Dim lighting</option><option value="blur">Blur</option><option value="noise">Image noise</option><option value="occlusion">Partly covered</option></select><p class="hint">Changed images are simulated stress tests, not newly collected photos.</p><button class="primary" id="predict">Analyze image <span>↗</span></button><p class="status" id="status" role="status" aria-live="polite">Take a photo or choose an image. First analysis downloads about 60 MB of models.</p></section>
-<section class="panel output-panel"><div class="panel-heading"><span class="step">02</span><h2>Inspect the prediction</h2></div><div id="empty" class="empty"><div class="empty-symbol">▧</div><h3>A closer look starts here.</h3><p>Your image, prediction, and explanation<br>will appear after analysis.</p></div><div id="output" hidden><div class="image-pair"><figure><img id="input-image" alt="Image used by the models"><figcaption id="input-caption">Model input</figcaption></figure><figure><img id="heatmap-image" alt="Class activation map showing positive evidence for the modern model prediction"><figcaption>Modern model · evidence map</figcaption></figure></div><div class="verdicts"><div class="verdict"><span>BASELINE · MOBILENETV2</span><strong id="old-label"></strong><p id="old-detail"></p></div><div class="verdict modern"><span>CONVNEXT-TINY + AUGMENTATION</span><strong id="new-label"></strong><p id="new-detail"></p></div></div><div id="bars" class="bars"></div><p class="explain-note">The map explains the selected four-class label, even if the object is unsupported. Brighter areas show positive evidence for the modern model's chosen class. This is a Class Activation Map, not a precise object outline or proof of correctness.</p><p class="hint" id="runtime"></p><p class="hint" id="session-average"></p></div></section></div>
-<section class="results-section"><div><p class="eyebrow">THE EXPERIMENT</p><h2>Does the upgrade help?</h2><p>Recorded desktop experiments: three systems, the same 60 held-out images, five conditions.</p></div><div class="table-wrap"><table><thead><tr><th>Model / accuracy</th><th>Original</th><th>Dim</th><th>Blur</th><th>Noise</th><th>Covered</th></tr></thead><tbody id="metrics"><tr><td colspan="6">Loading recorded results…</td></tr></tbody></table></div><p class="hint" id="benchmark"></p><p class="hint">The two ConvNeXt systems differ only in their training data: original images versus original images plus 558 augmented variants. This tests whether augmentation helps. Altered test images remain related to the original 60 images.</p></section>
-<section class="notes"><div><span>WHAT IT KNOWS</span><p>Four device categories, learned from 400 images. Use a photo with one main object.</p></div><div><span>WHAT TO KEEP IN MIND</span><p>Confidence is a model score, not a guarantee. Other objects will still receive one of these four labels.</p></div><div><span>YOUR PHOTOS STAY PRIVATE</span><p>Your photo stays in this browser. The models run on your device; no photo is uploaded to a server.</p></div></section></main><footer><span>Device Lab · Image classification</span><span>MobileNetV2 baseline / ConvNeXt-Tiny upgrade / Class Activation Maps</span></footer></div><script src="./assets/tf.min.js"></script><script src="./assets/tf-backend-wasm.js"></script><script type="module" src="./assets/app.mjs?v=3"></script></body></html>
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f5ef">
+  <meta name="description" content="Recognize four device categories, compare two vision models, and explore their visual evidence. Photos stay on your device.">
+  <title>Device Lab — Look closer.</title>
+  <link rel="stylesheet" href="./assets/style.css?v=4">
+</head>
+<body>
+<div class="shell">
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Device Lab home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>device<span class="brand-light">lab</span></a>
+    <span class="privacy-tag"><i aria-hidden="true"></i>Private. On your device.</span>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <h1 id="page-title">Look <em>closer.</em><span class="title-dot" aria-hidden="true"></span></h1>
+      <p class="categories">Monitor <span>·</span> Telephone <span>·</span> Laptop <span>·</span> Keyboard</p>
+    </section>
+    <div class="workspace">
+      <section class="panel input-panel" aria-labelledby="input-title">
+        <div class="panel-heading"><h2 id="input-title">Your image</h2><span class="small-index">01</span></div>
+        <label class="upload" id="dropzone" tabindex="0" aria-label="Choose or drop an image">
+          <input id="file" type="file" accept="image/*">
+          <img id="selected-preview" alt="Selected image preview" hidden>
+          <span class="upload-symbol" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none"><rect x="4" y="4" width="24" height="24" rx="7" stroke="currentColor" stroke-width="1.4"/><path d="M10 20l5-5 4 4 3-3 3 4M21 11h.01" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <strong id="filename">Choose an image</strong>
+          <span class="upload-hint">or drop one here · up to 30 MB</span>
+        </label>
+        <label class="camera-button" id="camera-button" tabindex="0"><input id="camera" type="file" accept="image/*" capture="environment"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M8 6l1.5-2h5L16 6h3a2 2 0 012 2v10a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h3z" stroke="currentColor" stroke-width="1.4"/><circle cx="12" cy="12.5" r="3.5" stroke="currentColor" stroke-width="1.4"/></svg>Take photo</label>
+        <div class="condition-row"><label for="condition">Image condition</label><span>optional</span></div>
+        <select id="condition"><option value="clean">Original</option><option value="dim">Dim lighting</option><option value="blur">Blur</option><option value="noise">Noise</option><option value="occlusion">Partly covered</option></select>
+        <p class="scope-note">Four classes only. Other objects may be mislabeled.</p>
+        <button class="primary" id="predict"><span>Analyze image</span><span class="button-arrow" aria-hidden="true">↗</span></button>
+        <p class="status" id="status" role="status" aria-live="polite">First use downloads ~60 MB of models.</p>
+      </section>
+      <section class="panel output-panel" id="result-panel" aria-labelledby="result-title">
+        <div class="panel-heading"><h2 id="result-title">A closer look</h2><span class="small-index">02</span></div>
+        <div id="empty" class="empty">
+          <div class="viewfinder" aria-hidden="true"><i></i><i></i><i></i><i></i><svg viewBox="0 0 100 80" fill="none"><rect x="18" y="13" width="64" height="44" rx="4" stroke="currentColor" stroke-width="1.2"/><path d="M50 57v12m-14 0h28M24 50h52" stroke="currentColor" stroke-width="1.2"/><circle cx="50" cy="34" r="7" stroke="currentColor" stroke-width="1.2"/></svg><span></span></div>
+          <p>Add a photo to begin.</p>
+          <span>Prediction + visual explanation</span>
+        </div>
+        <div id="output" hidden>
+          <div class="image-pair">
+            <figure><img id="input-image" alt="Image analyzed by the models"><figcaption id="input-caption">Original</figcaption></figure>
+            <figure><img id="heatmap-image" alt="Class Activation Map for the ConvNeXt prediction"><figcaption><span class="heat-scale" aria-hidden="true"></span>Class evidence</figcaption></figure>
+          </div>
+          <div class="verdicts">
+            <div class="verdict"><span>MobileNetV2 <small>baseline</small></span><strong id="old-label"></strong><p id="old-detail"></p></div>
+            <div class="verdict modern"><span>ConvNeXt-Tiny <small>+ augmentation</small></span><strong id="new-label"></strong><p id="new-detail"></p></div>
+          </div>
+          <p class="map-caption">Brighter areas = stronger evidence for the predicted class.</p>
+          <details class="detail-line"><summary>Class scores<span aria-hidden="true">+</span></summary><div id="bars" class="bars"></div></details>
+          <details class="detail-line"><summary>Speed & device<span aria-hidden="true">+</span></summary><p id="session-average" class="detail-text"></p><p id="runtime" class="detail-text"></p><p class="fine-print">Inference only; excludes downloads, photo decoding, and heatmap rendering.</p></details>
+        </div>
+      </section>
+    </div>
+    <section class="supporting" aria-label="Experiment and method details">
+      <details class="disclosure" id="experiments">
+        <summary><span>Experiment results</span><span class="summary-aside">3 models · 60 images <b aria-hidden="true">+</b></span></summary>
+        <div class="disclosure-body">
+          <p class="section-intro">Recorded desktop accuracy. The same held-out images, under five conditions.</p>
+          <div class="table-wrap"><table><thead><tr><th scope="col">Model</th><th scope="col">Original</th><th scope="col">Dim</th><th scope="col">Blur</th><th scope="col">Noise</th><th scope="col">Covered</th></tr></thead><tbody id="metrics"><tr><td colspan="6">Loading results…</td></tr></tbody></table></div>
+          <p class="detail-text">The ablation adds 558 training variations to the same ConvNeXt model. It did not improve mean stress accuracy in this run.</p>
+          <p class="fine-print" id="benchmark"></p>
+        </div>
+      </details>
+      <details class="disclosure" id="about">
+        <summary><span>How it works</span><span class="summary-aside">Models, heatmaps & limits <b aria-hidden="true">+</b></span></summary>
+        <div class="disclosure-body about-grid">
+          <div><h3>Two models, one photo</h3><p>MobileNetV2 is the baseline. ConvNeXt-Tiny uses a frozen pretrained backbone and a four-class head trained with extra image variations. The dataset contains 400 original images.</p></div>
+          <div><h3>Evidence, not certainty</h3><p>The Class Activation Map highlights positive evidence for ConvNeXt’s chosen label. It is not an object outline or proof of correctness. Confidence scores are uncalibrated.</p></div>
+          <div><h3>Private by design</h3><p>Models run in this browser using WebAssembly. Photos are not uploaded. Camera capture depends on the device and browser; image selection is always available.</p></div>
+          <div><h3>A few limits</h3><p>Only four categories are recognized. Effects such as blur and noise are simulated. A small test set and one training seed do not establish real-world reliability.</p></div>
+        </div>
+      </details>
+    </section>
+  </main>
+  <footer><span>Device Lab</span><span>Computer vision, a little closer.</span></footer>
+</div>
+<script src="./assets/tf.min.js"></script><script src="./assets/tf-backend-wasm.js"></script><script type="module" src="./assets/app.mjs?v=4"></script>
+</body>
+</html>
