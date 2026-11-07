@@ -16,9 +16,10 @@ The main workspace contains image selection/capture, the optional condition sele
 
 ## Architecture
 
-`index.html` loads the local TensorFlow.js library, WebAssembly backend, and `assets/app.mjs`. The application initializes the backend on first analysis, downloads the model manifests and weight shards, and runs both models on a resized RGB image.
+`index.html` loads `assets/app.mjs`. A dedicated Web Worker loads the local TensorFlow.js library and WebAssembly backend, decodes weights, and runs inference without blocking the interface. MobileNet loads and displays its prediction first, followed by the ConvNeXt comparison and heatmap. Model shards download with up to four concurrent requests, streamed byte progress, one retry, integrity checks, and persistent caching where browser storage permits. Stalled network requests time out after 20 seconds without data. A 45-second inference watchdog stops a stuck worker; the user can also cancel analysis. Cancellation discards the worker?s in-memory models, while verified cached shards remain available.
 
 - `assets/app.mjs`: image selection/capture, preprocessing, simulated conditions, rendering, and session timing.
+- `assets/vision-worker.js`: background engine initialization, model lifecycle, and staged predictions.
 - `assets/inference.mjs`: model loading, float16 decoding, MobileNetV2 and ConvNeXt execution, and CAM computation.
 - `models/mobilenet.json` and `models/convnext.json`: architecture metadata and shard manifests.
 - `models/*.bin`: trained weight shards, each at most 4 MiB.

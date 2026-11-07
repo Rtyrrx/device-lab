@@ -12,9 +12,18 @@ export function createWeights(tf,manifest,half) {
  return weights;
 }
 export async function loadExport(tf,baseUrl,progress=()=>{}) {
- const res=await fetch(baseUrl);if(!res.ok)throw Error('Model manifest could not be downloaded.');const manifest=await res.json();
- const all=new Uint8Array(manifest.bytes);let offset=0;
- for(const shard of manifest.shards){const url=new URL(shard.file,new URL(baseUrl,location.href));const cache=globalThis.caches?await caches.open('device-lab-models-v1').catch(()=>null):null;const cacheKey=new URL(url);cacheKey.searchParams.set('sha256',shard.sha256);let r=cache?await cache.match(cacheKey):null;if(!r){r=await fetch(url);if(r.ok&&cache)await cache.put(cacheKey,r.clone()).catch(()=>{});}if(!r.ok)throw Error('A model download failed. Check your connection and retry.');const part=new Uint8Array(await r.arrayBuffer());if(part.byteLength!==shard.bytes)throw Error('Incomplete model download. Please retry.');if(globalThis.crypto?.subtle){const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',part))).map(b=>b.toString(16).padStart(2,'0')).join('');if(hash!==shard.sha256)throw Error('The model integrity check failed. Please reload.');}all.set(part,offset);offset+=part.byteLength;progress(offset,manifest.bytes);}
+ const timed=async(url,consume)=>{const controller=new AbortController();let timer;const touch=()=>{clearTimeout(timer);timer=setTimeout(()=>controller.abort(),20000);};touch();try{const r=await fetch(url,{signal:controller.signal});if(!r.ok)throw Error('Model download failed. Check your connection and retry.');return await consume(r,touch);}catch(e){if(e.name==='AbortError')throw Error('Model download stalled. Check your connection and retry.');throw e;}finally{clearTimeout(timer);}};
+ const manifest=await timed(baseUrl,r=>r.json());
+ const all=new Uint8Array(manifest.bytes),received=new Array(manifest.shards.length).fill(0);let next=0;
+ const cache=globalThis.caches?await caches.open('device-lab-models-v1').catch(()=>null):null;
+ const offsets=[];let offset=0;for(const shard of manifest.shards){offsets.push(offset);offset+=shard.bytes;}if(offset!==manifest.bytes)throw Error('Invalid model manifest.');
+ const report=()=>progress(received.reduce((a,b)=>a+b,0),manifest.bytes);
+ async function read(r,i,touch=()=>{}){const chunks=[];let count=0;if(r.body){const reader=r.body.getReader();while(true){const {done,value}=await reader.read();if(done)break;touch();chunks.push(value);count+=value.length;if(count>manifest.shards[i].bytes)throw Error('Invalid model download size.');received[i]=count;report();}}else{const data=new Uint8Array(await r.arrayBuffer());chunks.push(data);count=data.length;}const part=new Uint8Array(count);let n=0;for(const chunk of chunks){part.set(chunk,n);n+=chunk.length;}return part;}
+ async function download(i){const shard=manifest.shards[i],url=new URL(shard.file,new URL(baseUrl,location.href)),key=new URL(url);key.searchParams.set('sha256',shard.sha256);let last;
+  for(let attempt=0;attempt<2;attempt++){try{const cached=attempt===0&&cache?await cache.match(key).catch(()=>null):null;const part=cached?await read(cached,i):await timed(url,(r,touch)=>read(r,i,touch));if(part.byteLength!==shard.bytes)throw Error('Incomplete model download. Please retry.');if(globalThis.crypto?.subtle){const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',part))).map(b=>b.toString(16).padStart(2,'0')).join('');if(hash!==shard.sha256)throw Error('Model integrity check failed. Please retry.');}all.set(part,offsets[i]);received[i]=part.length;report();if(!cached&&cache)await cache.put(key,new Response(part)).catch(()=>{});return;}catch(e){last=e;received[i]=0;report();if(cache)await cache.delete(key).catch(()=>{});}}
+  throw last;
+ }
+ await Promise.all(Array.from({length:Math.min(4,manifest.shards.length)},async()=>{while(next<manifest.shards.length)await download(next++);}));
  return {manifest,weights:createWeights(tf,manifest,new Uint16Array(all.buffer))};
 }
 function dense(tf,x,w){const dims=x.shape;return tf.add(tf.matMul(x.reshape([-1,dims[dims.length-1]]),w[0]),w[1]).reshape([...dims.slice(0,-1),w[1].shape[0]]);}
