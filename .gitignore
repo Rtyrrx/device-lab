@@ -13,3 +13,6 @@ results/explanation_examples.json
 results/demo_*
 results/app_smoke_check.json
 *_DRAFT.*
+
+# Local dataset archives are not published.
+/dataset*.zip
